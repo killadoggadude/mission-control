@@ -1,0 +1,106 @@
+{
+  "tobiasfendt": [
+    {
+      "id": 8472951063,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "AI coding agents promised productivity. They delivered panic.\n\nEveryone's racing to ship faster but nobody's asking if we're building the right thing.\n\nSpeed without direction is just efficient chaos.\n\nSpec first. Code second. Always."
+    },
+    {
+      "id": 7293841506,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "build-in-public",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Vibe coded an entire feature today while my coffee got cold.\n\nClaude Code + OpenClaw = my dev team of one.\n\n60 minute tasks now take 60 seconds. Not exaggerating.\n\nThe solopreneur advantage in 2026 isn't hustle. It's leverage."
+    },
+    {
+      "id": 6184729305,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Analysis paralysis killed more projects than bad code ever did.\n\nVibe coding isn't about being sloppy. It's about shipping before doubt sets in.\n\nBuild ugly. Ship fast. Fix in public.\n\nYour users don't care about your architecture diagrams."
+    },
+    {
+      "id": 5073618294,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "contrarian",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Hot take: AI won't replace developers.\n\nBut developers using AI will replace developers who don't.\n\nThe gap isn't technical skill anymore. It's judgment.\n\nAI writes code. You decide what matters."
+    },
+    {
+      "id": 4962507183,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "evergreen",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "One person + AI can now do what required a team 3 years ago.\n\nThis isn't the future. This is today.\n\nIf you're still building like it's 2023 you're already behind.\n\nShip daily. Learn faster. Outpace everyone."
+    }
+  ],
+  "kaivoss": [
+    {
+      "id": 3851496072,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "insider-reveal",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "AI influencer earning $11k/month. No face. No ego. No problems.\n\nReal models charge $1k per post and demand creative control.\n\nAI models work 24/7, never age, and you own 100%.\n\nThe creator economy is being automated. Get on the right side."
+    },
+    {
+      "id": 2740384961,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "how-to",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "OFM stack that prints:\n\nFanvue for hosting. Automated DMs for conversion. Retention flows that feel human.\n\nHybrid model: AI handles 80% of interactions. Human touch for the high value 20%.\n\nMargins go from 40% to 85% when you remove the talent tax."
+    },
+    {
+      "id": 1629273850,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "contrarian",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Everyone's obsessed with building their personal brand.\n\nWrong game.\n\nBuild the system that runs the brand. Own the infrastructure. Collect the rent.\n\nInfluencers come and go. Operators eat forever."
+    },
+    {
+      "id": 5182963740,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "income-breakdown",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Revenue math on a 3-account OFM operation:\n\n$8k/subscriber average LTV\n200 active subs = $1.6M pipeline\nChurn at 12% monthly\nRetention automation recovers 40%\n\nNet monthly: $45k after platform fees and AI costs.\n\nScale is a systems problem, not a content problem."
+    },
+    {
+      "id": 4071852639,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "engagement",
+      "source": "daily-cron",
+      "status": "pending",
+      "createdAt": "2026-03-04T09:48:00+08:00",
+      "full_tweet": "Question for the OFM operators:\n\nWhat's your subscriber retention rate after 90 days?\n\nMost are under 30%. Mine sits at 67% with automated engagement flows.\n\nDrop your numbers below. Let's see who's actually running systems vs just posting content."
+    }
+  ]
+}
