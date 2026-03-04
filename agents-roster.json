@@ -1,0 +1,161 @@
+{
+  "teams": [
+    {
+      "name": "Executive",
+      "icon": "👑",
+      "color": "#8B5CF6",
+      "agents": [
+        {
+          "name": "Traudl",
+          "role": "Gateway Administrator",
+          "title": "System Operator",
+          "description": "Primary gateway operator and system administrator. Manages OpenClaw infrastructure, browser automation, and orchestrates all agent operations.",
+          "avatar": "avatars/traudl.jpg",
+          "model": "anthropic/claude-sonnet-4-6",
+          "schedule": "24/7 on-demand",
+          "status": "online",
+          "department": "Executive",
+          "reports_to": null
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "icon": "💰",
+      "color": "#10B981",
+      "agents": [
+        {
+          "name": "Cosmo",
+          "role": "Cost Analyst",
+          "title": "API Spend Tracker",
+          "description": "Monitors and analyzes API spending across all agents. Tracks Kimi and other model usage, generates cost reports, and alerts on budget thresholds.",
+          "avatar": "avatars/cosmo.png",
+          "model": "moonshot/kimi-k2.5",
+          "schedule": "Daily at 09:00, 17:00 PHT",
+          "status": "online",
+          "department": "Finance",
+          "reports_to": "Traudl"
+        }
+      ]
+    },
+    {
+      "name": "Intelligence",
+      "icon": "🕵️",
+      "color": "#F59E0B",
+      "agents": [
+        {
+          "name": "Cleo",
+          "role": "Chat Intelligence",
+          "title": "Fanvue Analyst",
+          "description": "Analyzes Fanvue chat conversations, extracts insights, identifies patterns, and generates engagement reports. Currently in error state - needs attention.",
+          "avatar": "avatars/cleo.png",
+          "model": "moonshot/kimi-k2.5",
+          "schedule": "Every 4 hours",
+          "status": "error",
+          "department": "Intelligence",
+          "reports_to": "Traudl"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "icon": "📝",
+      "color": "#EC4899",
+      "agents": [
+        {
+          "name": "Mira",
+          "role": "Content Creator",
+          "title": "Social Media Manager",
+          "description": "Generates iPhone Pro Max photography prompts, manages Mira Cruz social media content, coordinates with Typefully for scheduling and auto-posting.",
+          "avatar": "avatars/mira.png",
+          "model": "dashscope/qwen3.5-32b-instruct",
+          "schedule": "Daily content batch at 08:00 PHT",
+          "status": "online",
+          "department": "Content",
+          "reports_to": "Traudl"
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "icon": "⚙️",
+      "color": "#3B82F6",
+      "agents": [
+        {
+          "name": "Qwen Local",
+          "role": "Code Assistant",
+          "title": "Local Development Helper",
+          "description": "Fast local coding assistance using Qwen3 8B via LM Studio. Handles file operations, simple refactors, and quick code reviews without API costs.",
+          "avatar": "avatars/qwen.png",
+          "model": "lmstudio/qwen/qwen3-8b",
+          "schedule": "On-demand",
+          "status": "online",
+          "department": "Engineering",
+          "reports_to": "Traudl"
+        },
+        {
+          "name": "Qwen Cloud",
+          "role": "Senior Developer",
+          "title": "Complex Coding Tasks",
+          "description": "Handles complex coding tasks, architecture decisions, and multi-file refactors using Qwen3.5 32B via DashScope. Optimal cost/quality balance.",
+          "avatar": "avatars/qwen-cloud.png",
+          "model": "dashscope/qwen3.5-32b-instruct",
+          "schedule": "On-demand",
+          "status": "online",
+          "department": "Engineering",
+          "reports_to": "Traudl"
+        }
+      ]
+    },
+    {
+      "name": "Operations",
+      "icon": "🔧",
+      "color": "#6B7280",
+      "agents": [
+        {
+          "name": "Healthcheck",
+          "role": "Security Auditor",
+          "title": "System Hardening Specialist",
+          "description": "Periodic security audits, firewall/SSH/update hardening, risk posture reviews, and OpenClaw deployment health checks.",
+          "avatar": "avatars/healthcheck.png",
+          "model": "anthropic/claude-sonnet-4-6",
+          "schedule": "Weekly on Monday 06:00 PHT",
+          "status": "online",
+          "department": "Operations",
+          "reports_to": "Traudl"
+        },
+        {
+          "name": "Browser Monitor",
+          "role": "Browser Health",
+          "title": "CDP Connection Watcher",
+          "description": "Monitors browser process health, CDP endpoint responsiveness, memory/CPU usage, and tab stability. Posts alerts to #browser-health channel.",
+          "avatar": "avatars/browser.png",
+          "model": "ollama/llama3.2:1b",
+          "schedule": "Every 30 minutes",
+          "status": "online",
+          "department": "Operations",
+          "reports_to": "Traudl"
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "icon": "🔬",
+      "color": "#8B5CF6",
+      "agents": [
+        {
+          "name": "Web Search",
+          "role": "Research Assistant",
+          "title": "Information Gatherer",
+          "description": "Performs web searches via Brave Search API, fetches and extracts content from URLs, gathers competitive intelligence and market research.",
+          "avatar": "avatars/search.png",
+          "model": "qwen35/qwen3.5-plus",
+          "schedule": "On-demand",
+          "status": "online",
+          "department": "Research",
+          "reports_to": "Traudl"
+        }
+      ]
+    }
+  ]
+}
