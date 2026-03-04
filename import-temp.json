@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idea": "Mira Cruz at local palengke market holding basket of fresh produce, vibrant vegetable stalls in background, morning market energy",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin with golden undertones glowing in morning light, natural skin texture with visible pores, dark brown-black hair in casual low bun with loose strands, minimal makeup with fresh dewy skin, petite fit figure, wearing simple white cotton t-shirt and denim shorts, carrying woven bayong basket filled with fresh vegetables, standing at market stall taking mirror selfie with phone, bright genuine smile, authentic market day vibe",
+        "environment": "Traditional Filipino palengke market with colorful vegetable stalls, tomatoes and leafy greens displayed, hanging meats in background, concrete floor slightly wet, metal roof overhead, vendors and shoppers in background, authentic local market atmosphere",
+        "lighting": "Natural morning light filtering through market roof, 5000K bright and fresh, mixed with fluorescent stall lights, Smart HDR preserving vibrant vegetable colors",
+        "camera_gear": "iPhone 16 Pro Max, main lens, market stall mirror selfie, vertical 9:16",
+        "processing": "Apple ProRAW, vibrant color grading emphasizing fresh produce colors, natural skin tones",
+        "imperfections": "Slightly humid skin from market heat, hair with flyaways, casual everyday outfit, authentic market chaos in background"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max mirror selfie at palengke, young Filipina woman early 20s, warm golden skin morning glow visible pores, dark casual low bun loose strands, minimal makeup dewy skin, petite fit figure, white cotton t-shirt denim shorts, woven bayong basket fresh vegetables, market stall mirror selfie phone, bright genuine smile, traditional Filipino palengke market, colorful vegetable stalls tomatoes leafy greens, hanging meats background, concrete floor wet, metal roof overhead, vendors shoppers background, natural morning light market roof 5000K bright, mixed fluorescent stall lights, Smart HDR vibrant vegetables, Apple ProRAW vibrant color grading, humid skin flyaways, authentic Pinay market day aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, posed model, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz working on laptop at BGC cafe, iced coffee on table, modern urban Filipina freelancer vibe",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin with golden undertones, natural skin texture visible, dark brown-black hair in sleek low ponytail, minimal makeup with defined brows and nude lips, petite fit figure, wearing cream linen button-up shirt rolled sleeves, sitting at cafe table with MacBook open, holding iPhone for selfie, focused yet relaxed expression, modern working woman aesthetic",
+        "environment": "Trendy BGC cafe with industrial decor, exposed concrete walls, hanging plants, wooden tables, large windows showing BGC street view, other freelancers working in background, coffee cups and laptops on tables, urban professional atmosphere",
+        "lighting": "Bright natural afternoon light from large windows, 5500K clean and modern, Smart HDR preserving window detail and interior",
+        "camera_gear": "iPhone 16 Pro Max, main lens, cafe table selfie angle, Portrait Mode with cafe bokeh, vertical 9:16",
+        "processing": "Apple ProRAW, clean modern color grading, neutral tones with warm skin",
+        "imperfections": "Natural cafe lighting, slight reflection in glasses if worn, authentic work-from-cafe setup"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max cafe selfie, young Filipina woman early 20s, warm golden skin visible texture, dark sleek low ponytail, minimal makeup defined brows nude lips, petite fit figure, cream linen button-up rolled sleeves, sitting cafe table MacBook open, phone selfie, focused relaxed expression, trendy BGC cafe industrial decor, exposed concrete walls hanging plants, wooden tables, large windows BGC street view, freelancers background, coffee cups laptops, bright afternoon window light 5500K clean, Smart HDR window interior detail, Apple ProRAW clean modern grading, authentic Pinay urban freelancer aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz taking selfie inside colorful jeepney, iconic Filipino transport, vibrant interior with LED lights",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin glowing under jeepney lights, natural skin texture, dark brown-black hair in messy bun from commute, minimal makeup slightly faded from day, petite fit figure, wearing casual graphic tee and jeans, sitting on jeepney bench seat holding iPhone for selfie, playful adventurous smile, authentic commute moment",
+        "environment": "Inside traditional Filipino jeepney, colorful chrome interior with LED strip lights, religious icons hanging from ceiling, patterned seat covers, open sides showing Manila street passing by, other passengers visible, driver's area with decorations, iconic Filipino public transport",
+        "lighting": "Mixed LED interior lights and natural street light, 4000K warm mixed lighting, Smart HDR preserving colorful interior and street detail",
+        "camera_gear": "iPhone 16 Pro Max, main lens, jeepney interior selfie, vertical 9:16",
+        "processing": "Apple ProRAW, vibrant color grading emphasizing LED colors, warm skin tones",
+        "imperfections": "Slightly sweaty from commute, hair windblown from open jeepney sides, authentic public transport chaos"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max jeepney selfie, young Filipina woman early 20s, warm golden skin LED glow visible texture, dark messy bun commute, minimal makeup faded day, petite fit figure, casual graphic tee jeans, sitting jeepney bench seat phone selfie, playful adventurous smile, traditional Filipino jeepney interior, colorful chrome LED strip lights, religious icons ceiling, patterned seat covers, open sides Manila street passing, other passengers, driver area decorations, mixed LED interior street light 4000K warm, Smart HDR colorful interior street, Apple ProRAW vibrant LED grading, sweaty commute windblown hair, authentic Pinay jeepney ride aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz at street food stall trying isaw or fish balls, skewer in hand, authentic Filipino street food experience",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin with golden undertones, natural skin texture, dark brown-black hair in casual half-up style, minimal makeup with glossy lips, petite fit figure, wearing casual tank top and denim skirt, holding skewer of street food (isaw or fish balls), taking selfie with food stall in background, excited happy expression about to eat, authentic street food lover vibe",
+        "environment": "Filipino street food stall at dusk, metal cart with grill, smoke rising, various skewers displayed, plastic stools, other customers eating, street lights and vehicle headlights in background, bustling Manila street scene, authentic local food culture",
+        "lighting": "Warm street food stall lighting mixed with dusk ambient light, 3800K warm and atmospheric, Smart HDR preserving food detail and street ambiance",
+        "camera_gear": "iPhone 16 Pro Max, main lens, street food selfie with skewer, vertical 9:16",
+        "processing": "Apple ProRAW, warm atmospheric grading, rich food colors",
+        "imperfections": "Slightly sweaty from street heat, casual street outfit, authentic messy street food moment"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max street food selfie, young Filipina woman early 20s, warm golden skin visible texture, dark casual half-up style, minimal makeup glossy lips, petite fit figure, casual tank top denim skirt, holding skewer isaw fish balls, phone selfie food stall background, excited happy expression about eat, Filipino street food stall dusk, metal cart grill smoke rising, skewers displayed, plastic stools, customers eating, street lights vehicle headlights background, bustling Manila street, warm stall lighting dusk ambient 3800K atmospheric, Smart HDR food street detail, Apple ProRAW warm atmospheric grading, sweaty street heat casual outfit, authentic Pinay street food aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz at Manila Bay sunset, iconic orange sky reflection on water, tourist spot selfie with famous view",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin glowing in golden sunset, natural skin texture with visible pores, dark brown-black hair in loose waves blowing in sea breeze, minimal makeup with bronzed cheeks and coral lips, petite fit figure, wearing flowy white sundress with thin straps, standing at Manila Baywalk holding iPhone for selfie, iconic orange sunset and water reflection in background, peaceful happy smile, famous Filipino sunset moment",
+        "environment": "Manila Baywalk at sunset, concrete seawall, other tourists and couples watching sunset, street vendors nearby, iconic orange and pink sunset sky reflecting on bay water, silhouettes of boats in distance, famous Manila sunset viewing spot",
+        "lighting": "Spectacular golden hour sunset light, 3500K warm orange glow, rim light on hair and skin, Smart HDR preserving sunset colors and skin detail",
+        "camera_gear": "iPhone 16 Pro Max, main lens, sunset selfie with bay view, Portrait Mode with sunset bokeh, vertical 9:16",
+        "processing": "Apple ProRAW, dramatic sunset color grading, warm golden tones",
+        "imperfections": "Windblown hair, natural sunset squint, authentic tourist moment"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max sunset selfie Manila Bay, young Filipina woman early 20s, warm golden skin sunset glow visible pores, dark loose waves sea breeze, minimal makeup bronzed cheeks coral lips, petite fit figure, flowy white sundress thin straps, standing Manila Baywalk phone selfie, iconic orange sunset water reflection background, peaceful happy smile, Manila Baywalk sunset, concrete seawall, tourists couples watching, street vendors nearby, orange pink sunset sky reflecting bay water, boat silhouettes distance, spectacular golden hour sunset 3500K orange glow, rim light hair skin, Smart HDR sunset colors skin, Apple ProRAW dramatic sunset grading, windblown hair sunset squint, authentic Pinay Manila Bay sunset aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz caught in Manila rain, wet hair aesthetic, holding umbrella, cozy rainy day vibe",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin with dewy rain-kissed glow, natural skin texture with water droplets, dark brown-black hair wet and clinging to face from rain, minimal makeup slightly smudged from humidity, petite fit figure, wearing oversized gray hoodie and leggings, holding transparent umbrella, taking selfie under covered area, playful resigned smile about the rain, authentic Manila rainy day moment",
+        "environment": "Under covered area in Manila during rainstorm, wet pavement visible, rain falling heavily in background, other people taking shelter, gray overcast sky, puddles reflecting street lights, typical Manila monsoon scene",
+        "lighting": "Overcast natural rain light, 6000K cool and diffused, Smart HDR preserving rain detail and wet surfaces",
+        "camera_gear": "iPhone 16 Pro Max, main lens, rainy day selfie under cover, vertical 9:16",
+        "processing": "Apple ProRAW, cool atmospheric grading, desaturated background with warm skin",
+        "imperfections": "Wet hair and skin, smudged makeup, authentic caught-in-rain moment"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max rainy day selfie, young Filipina woman early 20s, warm golden skin dewy rain-kissed water droplets, dark wet hair clinging face rain, minimal makeup smudged humidity, petite fit figure, oversized gray hoodie leggings, holding transparent umbrella, phone selfie under covered area, playful resigned smile rain, covered area Manila rainstorm, wet pavement visible, rain falling heavily background, people taking shelter, gray overcast sky, puddles reflecting street lights, overcast natural rain light 6000K cool diffused, Smart HDR rain wet surfaces, Apple ProRAW cool atmospheric grading, wet hair skin smudged makeup, authentic Pinay Manila rain aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz at Siargao Cloud 9 beach, surfboards in background, tropical island vacation vibes",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin deeply tanned with golden glow, natural skin texture with sun freckles, dark brown-black hair in beach waves with salt texture, minimal makeup with SPF glow and tinted lip balm, petite fit figure, wearing colorful bikini top with sarong tied around waist, standing at Cloud 9 Siargao holding iPhone for selfie, surfboards and palm trees in background, bright carefree island smile, tropical vacation aesthetic",
+        "environment": "Cloud 9 surf spot in Siargao, wooden boardwalk visible, surfboards lined up, palm trees swaying, turquoise ocean in background, beach huts and resorts, other surfers and tourists, iconic Filipino island destination",
+        "lighting": "Bright tropical midday sun, 5500K harsh and vibrant, Smart HDR preserving sky and ocean detail",
+        "camera_gear": "iPhone 16 Pro Max, main lens, beach selfie with surf spot, vertical 9:16",
+        "processing": "Apple ProRAW, vibrant tropical color grading, boosted blues and greens",
+        "imperfections": "Sandy skin, windblown hair, authentic beach vacation messiness"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max beach selfie Siargao, young Filipina woman early 20s, warm golden skin deeply tanned sun freckles, dark beach waves salt texture, minimal makeup SPF glow tinted lip balm, petite fit figure, colorful bikini top sarong waist, standing Cloud 9 Siargao phone selfie, surfboards palm trees background, bright carefree island smile, Cloud 9 surf spot Siargao, wooden boardwalk visible, surfboards lined up, palm trees swaying, turquoise ocean background, beach huts resorts, surfers tourists, bright tropical midday sun 5500K harsh vibrant, Smart HDR sky ocean detail, Apple ProRAW vibrant tropical grading, sandy skin windblown hair, authentic Pinay Siargao vacation aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  },
+  {
+    "scene_idea": "Mira Cruz at karaoke bar holding microphone, singing favorite OPM song, neon lights, fun night out with friends",
+    "status": "pending",
+    "createdAt": 1772593980000,
+    "prompt": {
+      "meta_data": {
+        "style": "iPhone Pro Max Photography",
+        "aspect_ratio": "9:16"
+      },
+      "prompt_components": {
+        "subject": "Young Filipina woman early 20s, warm medium brown skin glowing under karaoke lights, natural skin texture visible, dark brown-black hair in voluminous blowout, makeup with bold lips and defined eyes, petite fit figure, wearing sparkly party top and black pants, holding wireless microphone, taking selfie in karaoke room mirror, passionate singing expression mid-song, fun night out energy",
+        "environment": "Filipino karaoke box/room, neon LED lights in purple and blue, mirrored walls, couch with friends visible in reflection, song lyrics on TV screen, table with drinks and snacks, sound system, authentic Filipino karaoke night atmosphere",
+        "lighting": "Colorful karaoke LED lights, 4000K mixed with neon colors, dynamic party lighting, Smart HDR preserving neon colors and skin",
+        "camera_gear": "iPhone 16 Pro Max, main lens, karaoke room mirror selfie, vertical 9:16",
+        "processing": "Apple ProRAW, vibrant party color grading, neon accents",
+        "imperfections": "Slightly sweaty from singing and dancing, hair slightly messy from night, authentic fun karaoke moment"
+      },
+      "full_prompt_string": "Shot on iPhone 16 Pro Max karaoke selfie, young Filipina woman early 20s, warm golden skin karaoke lights visible texture, dark voluminous blowout, makeup bold lips defined eyes, petite fit figure, sparkly party top black pants, holding wireless microphone, karaoke room mirror selfie, passionate singing expression mid-song, Filipino karaoke box room, neon LED lights purple blue, mirrored walls, couch friends reflection, song lyrics TV screen, table drinks snacks, sound system, colorful karaoke LED lights 4000K mixed neon, dynamic party lighting, Smart HDR neon colors skin, Apple ProRAW vibrant party grading, sweaty singing dancing messy hair, authentic Pinay karaoke night aesthetic, 9:16 vertical",
+      "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+    }
+  }
+]
