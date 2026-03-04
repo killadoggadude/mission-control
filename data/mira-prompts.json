@@ -175,6 +175,138 @@
       "status": "pending",
       "createdAt": "2026-03-04T03:13:00.000Z",
       "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at BGC High Street evening, fairy lights overhead, shopping bags, urban nightlife aesthetic",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin glowing under evening lights, natural skin texture visible, dark brown-black hair in loose waves, minimal makeup with highlighted cheekbones and nude gloss, petite fit figure, wearing stylish crop top and high-waisted jeans, holding shopping bags from local brands, taking selfie on BGC High Street, confident happy expression, urban shopping vibe",
+          "environment": "BGC High Street at dusk, outdoor shopping area with string fairy lights overhead, modern storefronts, palm trees, other shoppers and diners in background, outdoor seating areas, upscale urban atmosphere",
+          "lighting": "Warm evening fairy lights mixed with twilight, 4000K cozy and inviting, Smart HDR preserving string lights and skin detail",
+          "camera_gear": "iPhone 16 Pro Max, main lens, evening street selfie with fairy lights bokeh, Portrait Mode, vertical 9:16",
+          "processing": "Apple ProRAW, warm evening grading, golden hour to blue hour transition",
+          "imperfections": "Natural evening light, slight motion blur from walking, authentic shopping outing"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max evening selfie BGC High Street, young Filipina woman early 20s, warm golden skin evening glow visible texture, dark loose waves, minimal makeup highlighted cheekbones nude gloss, petite fit figure, stylish crop top high-waisted jeans, holding shopping bags local brands, phone selfie, confident happy expression, BGC High Street dusk, outdoor shopping area string fairy lights overhead, modern storefronts, palm trees, shoppers diners background, outdoor seating areas, warm evening fairy lights twilight 4000K cozy, Smart HDR string lights skin, Apple ProRAW warm evening grading, natural evening light motion blur, authentic Pinay BGC shopping aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at yoga studio post-workout, activewear, glowing sweat, wellness and fitness lifestyle",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with post-workout glow and visible sweat, natural skin texture, dark brown-black hair in high ponytail with sweat strands, minimal makeup fresh-faced, petite fit toned figure, wearing matching lavender sports bra and leggings, holding iPhone for mirror selfie at yoga studio, peaceful accomplished expression after session, wellness lifestyle aesthetic",
+          "environment": "Modern yoga studio in BGC, wooden floors, floor-to-ceiling mirrors, plants in corners, yoga mats rolled up, natural light from large windows, other yogis in background, clean minimalist wellness space",
+          "lighting": "Bright natural morning light from windows, 5500K clean and energizing, Smart HDR preserving studio detail and skin glow",
+          "camera_gear": "iPhone 16 Pro Max, main lens, yoga studio mirror selfie, vertical 9:16",
+          "processing": "Apple ProRAW, clean wellness grading, soft natural tones",
+          "imperfections": "Visible sweat on skin, flushed cheeks, hair slightly messy from workout, authentic post-yoga moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max yoga studio mirror selfie, young Filipina woman early 20s, warm golden skin post-workout glow sweat visible texture, dark high ponytail sweat strands, minimal makeup fresh-faced, petite fit toned figure, matching lavender sports bra leggings, phone mirror selfie, peaceful accomplished expression, modern yoga studio BGC, wooden floors floor-to-ceiling mirrors, plants corners, yoga mats rolled, natural light large windows, other yogis background, bright morning window light 5500K clean energizing, Smart HDR studio skin glow, Apple ProRAW clean wellness grading, sweat flushed cheeks messy hair workout, authentic Pinay yoga wellness aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Filipino breakfast table, silog meal with eggs and garlic rice, home cooking morning routine",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with soft morning light, natural skin texture, dark brown-black hair in messy morning bun, minimal makeup bare-faced, petite fit figure, wearing cozy oversized t-shirt, sitting at breakfast table with plate of tapsilog (tapa, sinangag, itlog), holding iPhone for food selfie, sleepy content smile, authentic Filipino breakfast morning",
+          "environment": "Cozy Filipino home kitchen/dining area, wooden table, traditional breakfast spread with garlic rice and fried egg, coffee mug, morning light from window, homey lived-in space, family photos in background",
+          "lighting": "Soft natural morning light from kitchen window, 5000K warm and homey, Smart HDR preserving food detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, breakfast table food selfie angle, vertical 9:16",
+          "processing": "Apple ProRAW, warm homey grading, appetizing food colors",
+          "imperfections": "Morning bedhead, bare face, authentic home breakfast moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max breakfast selfie, young Filipina woman early 20s, warm golden skin soft morning light visible texture, dark messy morning bun, minimal makeup bare-faced, petite fit figure, cozy oversized t-shirt, sitting breakfast table plate tapsilog tapa sinangag itlog, phone food selfie, sleepy content smile, cozy Filipino home kitchen dining, wooden table, traditional breakfast garlic rice fried egg, coffee mug, morning light window, homey lived-in space, family photos background, soft morning window light 5000K warm homey, Smart HDR food skin, Apple ProRAW warm homey grading, morning bedhead bare face, authentic Pinay home breakfast aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Intramuros historic site, Spanish colonial architecture, cultural tourism, vintage Manila vibes",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with golden afternoon light, natural skin texture, dark brown-black hair in braided updo, minimal makeup with warm tones, petite fit figure, wearing flowy midi dress in earth tones, standing at Intramuros stone walls holding iPhone for selfie, curious appreciative expression exploring heritage site, cultural tourism aesthetic",
+          "environment": "Intramuros historic walls in Manila, Spanish colonial stone architecture, cobblestone streets, old churches and buildings, horse-drawn kalesa in background, tourists and locals exploring, historic Filipino landmark",
+          "lighting": "Golden afternoon sunlight on stone walls, 4500K warm and historic, Smart HDR preserving stone texture and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, historic site selfie with stone walls, vertical 9:16",
+          "processing": "Apple ProRAW, warm heritage grading, earthy tones",
+          "imperfections": "Natural tourist lighting, slight shadow from hat if worn, authentic cultural exploration"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Intramuros selfie, young Filipina woman early 20s, warm golden skin afternoon light visible texture, dark braided updo, minimal makeup warm tones, petite fit figure, flowy midi dress earth tones, standing Intramuros stone walls phone selfie, curious appreciative expression, Intramuros historic walls Manila, Spanish colonial stone architecture, cobblestone streets, old churches buildings, horse-drawn kalesa background, tourists locals exploring, golden afternoon sunlight stone walls 4500K warm historic, Smart HDR stone texture skin, Apple ProRAW warm heritage grading, natural tourist lighting, authentic Pinay cultural tourism aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at rooftop bar in Makati, city skyline at night, cocktails, sophisticated urban evening",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin glowing under rooftop bar lights, natural skin texture, dark brown-black hair in sleek straight style, makeup slightly elevated with smoky eyes and bold lip, petite fit figure, wearing elegant slip dress, holding cocktail glass, taking selfie with Makati skyline in background, confident sophisticated smile, upscale night out vibe",
+          "environment": "Rooftop bar in Makati, city skyline with lit-up buildings in background, outdoor seating, string lights, other patrons in cocktail attire, urban nightlife atmosphere, elevated view of Manila",
+          "lighting": "Mixed rooftop bar lighting and city lights, 4000K warm and sophisticated, Smart HDR preserving skyline and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, rooftop selfie with city skyline bokeh, Night Mode, vertical 9:16",
+          "processing": "Apple ProRAW, sophisticated evening grading, city lights bokeh",
+          "imperfections": "Natural bar lighting, slight motion from evening, authentic upscale night out"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max rooftop bar selfie Makati, young Filipina woman early 20s, warm golden skin bar lights visible texture, dark sleek straight style, makeup elevated smoky eyes bold lip, petite fit figure, elegant slip dress, holding cocktail glass, phone selfie, confident sophisticated smile, rooftop bar Makati, city skyline lit-up buildings background, outdoor seating, string lights, patrons cocktail attire, mixed bar lighting city lights 4000K warm sophisticated, Smart HDR skyline skin, Apple ProRAW sophisticated evening grading, natural bar lighting, authentic Pinay upscale night out aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at local sari-sari store, buying snacks and drinks, neighborhood community vibe, everyday Pinay life",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with natural daylight, authentic skin texture, dark brown-black hair in casual ponytail, minimal makeup fresh and natural, petite fit figure, wearing casual t-shirt and shorts, holding small plastic bag with snacks and soda from sari-sari store, taking selfie at store counter, friendly neighborhood smile, everyday Filipino life aesthetic",
+          "environment": "Traditional Filipino sari-sari store, small neighborhood convenience store, shelves stocked with snacks and goods, plastic chairs outside, neighborhood kids and neighbors around, residential Manila street, authentic local community space",
+          "lighting": "Natural daylight from street, 5500K bright and authentic, Smart HDR preserving store detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, sari-sari store selfie, vertical 9:16",
+          "processing": "Apple ProRAW, natural everyday grading, authentic neighborhood colors",
+          "imperfections": "Casual everyday outfit, natural neighborhood lighting, authentic daily errand moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max sari-sari store selfie, young Filipina woman early 20s, warm golden skin natural daylight authentic texture, dark casual ponytail, minimal makeup fresh natural, petite fit figure, casual t-shirt shorts, holding plastic bag snacks soda, phone selfie store counter, friendly neighborhood smile, traditional Filipino sari-sari store, small neighborhood convenience store, shelves snacks goods, plastic chairs outside, neighborhood kids neighbors, residential Manila street, natural daylight street 5500K bright authentic, Smart HDR store skin, Apple ProRAW natural everyday grading, casual outfit neighborhood lighting, authentic Pinay everyday life aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-05T03:03:00.000Z",
+      "usedAt": null
     }
   ]
 }
