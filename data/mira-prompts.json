@@ -307,6 +307,182 @@
       "status": "pending",
       "createdAt": "2026-03-05T03:03:00.000Z",
       "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at secluded Siargao beach at sunset, palm trees silhouetted, barefoot in shallow water, tropical paradise evening",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with deep golden tan from island sun, natural skin texture with visible freckles, dark brown-black hair in loose beach waves with salt spray, minimal makeup with bronzed glow and coral tint, petite fit figure, wearing white linen crop top and flowing maxi skirt rolled up, standing barefoot in shallow turquoise water, holding iPhone for selfie, serene peaceful smile watching sunset, tropical island paradise vibe",
+          "environment": "Secluded beach in Siargao away from crowds, palm trees lining the shore with fronds swaying, shallow crystal-clear turquoise water, white sand, sunset sky with orange and pink hues, small outrigger boat (bangka) anchored nearby, untouched tropical paradise",
+          "lighting": "Golden hour sunset light reflecting off water, 3600K warm and dreamy, rim light on hair and skin, water reflections dancing on face",
+          "camera_gear": "iPhone 16 Pro Max, main lens, beach sunset selfie with palm trees, Portrait Mode with sunset bokeh, vertical 9:16",
+          "processing": "Apple ProRAW, dreamy tropical sunset grading, enhanced water blues and sky oranges",
+          "imperfections": "Wet hem of skirt from wading, sandy feet, windblown hair, authentic beach sunset moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max secluded beach sunset Siargao, young Filipina woman early 20s, warm golden skin deep tan freckles, dark loose beach waves salt spray, minimal makeup bronzed glow coral tint, petite fit figure, white linen crop top flowing maxi skirt rolled, standing barefoot shallow turquoise water, phone selfie, serene peaceful smile sunset, secluded Siargao beach crowds, palm trees lining shore fronds swaying, shallow crystal-clear turquoise water, white sand, sunset sky orange pink hues, small outrigger boat bangka anchored, untouched tropical paradise, golden hour sunset light water 3600K warm dreamy, rim light hair skin, water reflections dancing face, Apple ProRAW dreamy tropical sunset grading, wet hem skirt sandy feet windblown hair, authentic Pinay island paradise aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz exploring Binondo Chinatown Manila, holding basket of dim sum, historic Chinese-Filipino heritage district",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin glowing in afternoon light, natural skin texture visible, dark brown-black hair in chic bun with chopsticks, minimal makeup with rosy cheeks, petite fit figure, wearing modern cheongsam-inspired blouse with jeans, holding bamboo steamer basket with dim sum, taking selfie on historic Binondo street, excited foodie expression, Chinese-Filipino cultural fusion vibe",
+          "environment": "Binondo Chinatown Manila, oldest Chinatown in the world, narrow streets with Chinese signage, traditional shophouses with red lanterns, street vendors selling Chinese goods, historic architecture blending Chinese and Filipino styles, bustling pedestrian activity",
+          "lighting": "Warm afternoon sunlight filtering through street, 4800K golden and atmospheric, Smart HDR preserving architectural detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, Chinatown street selfie with dim sum, vertical 9:16",
+          "processing": "Apple ProRAW, warm heritage grading emphasizing red lanterns and golden light",
+          "imperfections": "Slightly humid from walking, natural street lighting, authentic food exploration moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Binondo Chinatown selfie, young Filipina woman early 20s, warm golden skin afternoon light visible texture, dark chic bun chopsticks, minimal makeup rosy cheeks, petite fit figure, modern cheongsam-inspired blouse jeans, holding bamboo steamer basket dim sum, phone selfie historic Binondo street, excited foodie expression, Binondo Chinatown Manila oldest Chinatown world, narrow streets Chinese signage, traditional shophouses red lanterns, street vendors Chinese goods, historic architecture Chinese Filipino styles, bustling pedestrian activity, warm afternoon sunlight street 4800K golden atmospheric, Smart HDR architectural detail skin, Apple ProRAW warm heritage grading, humid walking natural street lighting, authentic Pinay Chinatown foodie aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz doing outdoor workout at BGC park, resistance bands, morning fitness routine with city skyline",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with healthy morning glow and light sweat, natural skin texture, dark brown-black hair in sporty high ponytail with headband, minimal makeup bare-faced with SPF, petite fit athletic figure, wearing coral sports bra and black bike shorts, holding resistance bands, taking selfie at BGC park with workout pose, determined energized expression, outdoor fitness lifestyle",
+          "environment": "BGC park with green lawn and workout area, modern BGC skyscrapers in background, palm trees, outdoor fitness equipment, other people jogging and exercising, clean urban park atmosphere, early morning freshness",
+          "lighting": "Bright early morning natural light, 5500K crisp and energizing, Smart HDR preserving sky and skin detail",
+          "camera_gear": "iPhone 16 Pro Max, main lens, park workout selfie with skyline, vertical 9:16",
+          "processing": "Apple ProRAW, clean fitness grading, vibrant greens and blues",
+          "imperfections": "Light sweat on skin, flushed cheeks from exercise, authentic morning workout energy"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max BGC park workout selfie, young Filipina woman early 20s, warm golden skin morning glow light sweat visible texture, dark sporty high ponytail headband, minimal makeup bare-faced SPF, petite fit athletic figure, coral sports bra black bike shorts, holding resistance bands, phone selfie park workout pose, determined energized expression, BGC park green lawn workout area, modern BGC skyscrapers background, palm trees, outdoor fitness equipment, people jogging exercising, clean urban park, early morning freshness, bright early morning natural light 5500K crisp energizing, Smart HDR sky skin detail, Apple ProRAW clean fitness grading, light sweat flushed cheeks exercise, authentic Pinay outdoor fitness aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Filipino town fiesta, colorful decorations, holding plate of lechon, community celebration atmosphere",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin glowing in festive afternoon light, natural skin texture, dark brown-black hair in festive half-up style with flower accessory, minimal makeup with bright coral lips, petite fit figure, wearing colorful floral Filipiniana-inspired dress, holding plate with lechon and rice, taking selfie at town fiesta, joyful celebratory smile, authentic Filipino fiesta spirit",
+          "environment": "Traditional Filipino town fiesta celebration, colorful bunting decorations (banderitas) strung across street, long banquet tables (fiesta spread) with food, community members in festive attire, live music or band in background, church or town plaza setting, vibrant celebratory atmosphere",
+          "lighting": "Bright festive afternoon sunlight, 5200K warm and celebratory, Smart HDR preserving colorful decorations and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, fiesta celebration selfie with food, vertical 9:16",
+          "processing": "Apple ProRAW, vibrant festive grading, boosted colors of decorations and food",
+          "imperfections": "Slightly sweaty from fiesta heat and dancing, authentic celebration messiness"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max town fiesta selfie, young Filipina woman early 20s, warm golden skin festive afternoon glow visible texture, dark festive half-up style flower accessory, minimal makeup bright coral lips, petite fit figure, colorful floral Filipiniana-inspired dress, holding plate lechon rice, phone selfie town fiesta, joyful celebratory smile, traditional Filipino town fiesta celebration, colorful bunting decorations banderitas strung street, long banquet tables fiesta spread food, community members festive attire, live music band background, church town plaza setting, bright festive afternoon sunlight 5200K warm celebratory, Smart HDR colorful decorations skin, Apple ProRAW vibrant festive grading, sweaty fiesta heat dancing, authentic Pinay fiesta celebration aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Poblacion Manila cafe hopping, artisan coffee in hand, hipster neighborhood creative vibe",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with soft cafe lighting glow, natural skin texture, dark brown-black hair in effortless messy waves, minimal makeup with defined brows and nude lips, petite fit figure, wearing vintage band tee and wide-leg jeans, holding artisan latte with latte art, taking selfie at trendy Poblacion cafe, cool relaxed expression, creative millennial cafe culture vibe",
+          "environment": "Hipster cafe in Poblacion Manila, exposed brick walls, industrial pendant lights, reclaimed wood tables, vinyl records on walls, indie music posters, barista station visible, other creatives and freelancers working, urban creative neighborhood atmosphere",
+          "lighting": "Warm cafe pendant lighting mixed with natural window light, 4200K cozy and artistic, Smart HDR preserving latte art and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, cafe table selfie with coffee, Portrait Mode with bokeh, vertical 9:16",
+          "processing": "Apple ProRAW, warm artistic grading, film-inspired tones",
+          "imperfections": "Natural cafe lighting, slight shadow from pendant lights, authentic cafe hopping moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Poblacion cafe selfie, young Filipina woman early 20s, warm golden skin cafe lighting glow visible texture, dark effortless messy waves, minimal makeup defined brows nude lips, petite fit figure, vintage band tee wide-leg jeans, holding artisan latte latte art, phone selfie trendy Poblacion cafe, cool relaxed expression, hipster cafe Poblacion Manila, exposed brick walls, industrial pendant lights, reclaimed wood tables, vinyl records walls, indie music posters, barista station visible, creatives freelancers working, urban creative neighborhood, warm cafe pendant lighting window light 4200K cozy artistic, Smart HDR latte art skin, Apple ProRAW warm artistic grading, natural cafe lighting pendant shadows, authentic Pinay cafe culture aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz on island hopping boat in Siargao, turquoise water splashing, life vest, adventure and exploration",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin deeply tanned with water droplets from boat ride, natural skin texture, dark brown-black hair windblown and slightly wet from sea spray, minimal makeup with SPF and tinted lip balm, petite fit figure, wearing bright orange life vest over swimsuit, sitting on traditional bangka boat, holding iPhone for selfie with arms outstretched, excited adventurous grin, island hopping exploration energy",
+          "environment": "Traditional Filipino outrigger boat (bangka) in Siargao waters, turquoise blue sea surrounding boat, water splashing from boat movement, other islands visible in distance, clear blue sky, fellow travelers on boat, boatman navigating, open ocean adventure setting",
+          "lighting": "Bright tropical midday sun reflecting off water, 5500K vibrant and energetic, water reflections dancing on skin, Smart HDR preserving sky and ocean",
+          "camera_gear": "iPhone 16 Pro Max, main lens, boat adventure selfie with ocean backdrop, vertical 9:16",
+          "processing": "Apple ProRAW, vibrant adventure grading, enhanced blues and turquoises",
+          "imperfections": "Water droplets on skin and lens, windblown hair, authentic boat ride motion"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max island hopping boat selfie Siargao, young Filipina woman early 20s, warm golden skin deeply tanned water droplets, dark windblown slightly wet sea spray, minimal makeup SPF tinted lip balm, petite fit figure, bright orange life vest swimsuit, sitting traditional bangka boat, phone selfie arms outstretched, excited adventurous grin, traditional Filipino outrigger boat bangka Siargao waters, turquoise blue sea surrounding boat, water splashing boat movement, other islands distance, clear blue sky, fellow travelers boat, boatman navigating, open ocean adventure, bright tropical midday sun water 5500K vibrant energetic, water reflections dancing skin, Smart HDR sky ocean, Apple ProRAW vibrant adventure grading, water droplets skin lens windblown hair, authentic Pinay island hopping aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Manila art gallery opening, contemporary Filipino art, wine glass, cultural scene sophistication",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with elegant gallery lighting, natural skin texture, dark brown-black hair in sophisticated low bun, makeup elevated with subtle contour and berry lips, petite fit figure, wearing chic black blazer over slip dress, holding wine glass, taking selfie with contemporary Filipino artwork in background, cultured appreciative expression, art scene sophistication",
+          "environment": "Contemporary art gallery in Manila (like Silverlens or Finale), white walls with large-scale Filipino contemporary art, track lighting, polished concrete floors, other art enthusiasts mingling, wine and cheese table, minimalist modern gallery space, cultural event atmosphere",
+          "lighting": "Gallery track lighting, 4500K clean and sophisticated, Smart HDR preserving artwork detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, gallery selfie with artwork, Portrait Mode, vertical 9:16",
+          "processing": "Apple ProRAW, sophisticated cultural grading, clean gallery whites with warm skin",
+          "imperfections": "Natural gallery lighting, slight reflection from artwork frames, authentic art opening moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max art gallery selfie Manila, young Filipina woman early 20s, warm golden skin gallery lighting visible texture, dark sophisticated low bun, makeup elevated subtle contour berry lips, petite fit figure, chic black blazer slip dress, holding wine glass, phone selfie contemporary Filipino artwork background, cultured appreciative expression, contemporary art gallery Manila Silverlens Finale, white walls large-scale Filipino contemporary art, track lighting, polished concrete floors, art enthusiasts mingling, wine cheese table, minimalist modern gallery space, cultural event, gallery track lighting 4500K clean sophisticated, Smart HDR artwork detail skin, Apple ProRAW sophisticated cultural grading, natural gallery lighting frame reflections, authentic Pinay art scene aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Siargao beach bonfire evening, roasting marshmallows, friends around fire, tropical night gathering",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin glowing from bonfire light, natural skin texture with fire-lit warmth, dark brown-black hair loose with slight tangles from beach day, minimal makeup with fire-lit glow, petite fit figure, wearing oversized sweater over swimsuit, sitting on beach log holding stick with marshmallow near fire, taking selfie with bonfire and friends in background, warm happy smile, tropical beach night bonding vibe",
+          "environment": "Siargao beach at night with bonfire, driftwood fire crackling with orange flames, friends sitting around on logs and beach blankets, stars visible in dark sky, sound of waves in background, beach resorts with string lights in distance, tropical island night gathering",
+          "lighting": "Warm bonfire light illuminating face, 2800K intimate and cozy, fire flicker creating dynamic shadows, Smart HDR preserving fire detail and skin warmth",
+          "camera_gear": "iPhone 16 Pro Max, main lens, bonfire beach selfie with friends, Night Mode, vertical 9:16",
+          "processing": "Apple ProRAW, warm intimate grading, enhanced fire oranges and night blues",
+          "imperfections": "Soot on hands from fire, windblown hair from sea breeze, authentic beach bonfire messiness"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max beach bonfire selfie Siargao, young Filipina woman early 20s, warm golden skin bonfire glow fire-lit warmth visible texture, dark loose slight tangles beach day, minimal makeup fire-lit glow, petite fit figure, oversized sweater swimsuit, sitting beach log holding stick marshmallow near fire, phone selfie bonfire friends background, warm happy smile, Siargao beach night bonfire, driftwood fire crackling orange flames, friends sitting logs beach blankets, stars visible dark sky, sound waves background, beach resorts string lights distance, tropical island night gathering, warm bonfire light illuminating face 2800K intimate cozy, fire flicker dynamic shadows, Smart HDR fire detail skin warmth, Apple ProRAW warm intimate grading, soot hands fire windblown hair sea breeze, authentic Pinay beach bonfire aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-06T03:03:00.000Z",
+      "usedAt": null
     }
   ]
 }
