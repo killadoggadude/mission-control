@@ -1,0 +1,54 @@
+{
+  "tobiasfendt": [
+    {
+      "id": 1847293056,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-05T09:07:00+08:00",
+      "full_tweet": "Spent 4 hours debugging yesterday.\n\nAI fixed it in 12 minutes.\n\nNot because AI is magic. Because I stopped trying to be the hero of my own code.\n\nEgo is the bottleneck. Ship faster."
+    },
+    {
+      "id": 2958401723,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-05T09:07:00+08:00",
+      "full_tweet": "Day 47 of build-in-public:\n\n- 3 shipped features\n- 127 lines of actual code (rest was AI)\n- 0 meetings\n- $2.3k MRR added\n\nThe leverage is real. Stop counting keystrokes. Start counting outcomes."
+    },
+    {
+      "id": 3069512834,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-05T09:07:00+08:00",
+      "full_tweet": "Your \"AI strategy\" is probably just prompt engineering with extra steps.\n\nReal strategy:\n- What can't AI do yet?\n- Where does human judgment compound?\n- What's your actual moat?\n\nEverything else is cosplay."
+    },
+    {
+      "id": 4170623945,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-05T09:07:00+08:00",
+      "full_tweet": "The best AI tool isn't the one with the most features.\n\nIt's the one you actually use every day.\n\nI've tried 47 coding assistants. I use 2.\n\nConsistency beats optimization. Every time."
+    },
+    {
+      "id": 5281735056,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-05T09:07:00+08:00",
+      "full_tweet": "What's the one AI workflow that actually changed your shipping speed?\n\nNot the hyped stuff. The thing you use daily without thinking.\n\nMine: Cursor + custom rules file. 3x faster on boilerplate, 10x on refactors.\n\nDrop yours below."
+    }
+  ]
+}

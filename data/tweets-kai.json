@@ -1,0 +1,49 @@
+{
+  "kaivoss": [
+    {
+      "id": 8372615490,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "revenue-update",
+      "source": "zara-cron",
+      "createdAt": "2026-03-05T09:12:00+08:00",
+      "full_tweet": "Mira's first 6 days on Fanvue:\n\nDay 1: $0\nDay 2: $12.50\nDay 3: $27\nDay 4: $43.50\nDay 5: $67\nDay 6: $89.50\n\nTotal: $239.50\nProjected Month 1: $1,759\n\nNo existing audience. No face. Just consistent posting and retention flows.\n\nThe playbook works."
+    },
+    {
+      "id": 7261504389,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-05T09:12:00+08:00",
+      "full_tweet": "Fanvue pricing strategy that's actually working:\n\n$9.99 entry tier → gets them in the door\n$24.99 VIP tier → 40% of subs choose this\n$49.99 whale tier → 3% but 30% of revenue\n\nMost operators underprice. They're leaving money on the table.\n\nTest higher tiers. Watch conversion. Adjust."
+    },
+    {
+      "id": 6150393278,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-05T09:12:00+08:00",
+      "full_tweet": "AI character consistency isn't about perfect prompts.\n\nIt's about building a reference library:\n\n- 50+ base images locked in\n- Consistent lighting angles\n- Same locations repeated (BGC cafe, market, beach)\n- Signature accessories (gold hoops, specific jewelry)\n\nMira's recognition rate jumped 3x after we did this."
+    },
+    {
+      "id": 5039282167,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-05T09:12:00+08:00",
+      "full_tweet": "The automation stack running Mira:\n\n- Convex DB → prompt storage + tracking\n- Vercel → instant deploys on updates\n- IG auto-posting → 3x daily, scheduled\n- DM flows → AI first, human handoff at $20+ intent\n- Revenue tracker → real-time dashboard\n\nTotal setup time: 4 hours\nRunning time: 20 min/day"
+    },
+    {
+      "id": 4928171056,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-05T09:12:00+08:00",
+      "full_tweet": "Everyone asks about the \"best\" AI model for OFM.\n\nDoesn't matter.\n\nWhat matters:\n- Posting daily\n- Responding to DMs fast\n- Testing price points\n- Tracking what converts\n\nConsistency beats optimization every time.\n\nShip the thing. Fix it while it's making money."
+    }
+  ]
+}
