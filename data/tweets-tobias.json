@@ -49,6 +49,56 @@
       "status": "pending",
       "createdAt": "2026-03-05T09:07:00+08:00",
       "full_tweet": "What's the one AI workflow that actually changed your shipping speed?\n\nNot the hyped stuff. The thing you use daily without thinking.\n\nMine: Cursor + custom rules file. 3x faster on boilerplate, 10x on refactors.\n\nDrop yours below."
+    },
+    {
+      "id": 6392846167,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-06T09:06:00+08:00",
+      "full_tweet": "Vibe coding isn't about being lazy.\n\nIt's about knowing what to delegate.\n\nI wrote 800 lines yesterday. AI wrote 2,400.\n\nMy job? Architecture, edge cases, taste.\n\nThe machine handles the rest. That's leverage."
+    },
+    {
+      "id": 7503957278,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-06T09:06:00+08:00",
+      "full_tweet": "Week 7 shipping report:\n\n- 12 features deployed\n- 4 bugs caught pre-production (AI unit tests)\n- 18 hours saved on refactoring\n- $4.1k in new revenue\n\nBuild in public. The accountability compounds."
+    },
+    {
+      "id": 8615068389,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-06T09:06:00+08:00",
+      "full_tweet": "Stop asking which AI model is \"best.\"\n\nBetter questions:\n- Which one integrates with your workflow?\n- Which one do you trust to refactor 500 lines without breaking things?\n- Which one ships faster?\n\nI use 3. Different jobs. All essential."
+    },
+    {
+      "id": 9726179490,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-06T09:06:00+08:00",
+      "full_tweet": "The real skill in 2026:\n\nNot prompting. Not coding.\n\nIt's knowing when to stop iterating and ship.\n\nAI makes iteration cheap. That means taste matters more than ever.\n\nPerfection is the enemy. Shipping is the cure."
+    },
+    {
+      "id": 1083729056,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-06T09:06:00+08:00",
+      "full_tweet": "What's the biggest lie people tell about AI coding?\n\nMine: \"It makes you dependent.\"\n\nNah. It makes you dangerous.\n\nI ship in days what took weeks last year. That's not dependency. That's evolution.\n\nWhat's yours?"
     }
   ]
 }

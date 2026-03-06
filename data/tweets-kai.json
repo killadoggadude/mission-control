@@ -1,6 +1,51 @@
 {
   "kaivoss": [
     {
+      "id": 9483726501,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "revenue-update",
+      "source": "zara-cron",
+      "createdAt": "2026-03-06T09:10:00+08:00",
+      "full_tweet": "Mira Day 7 revenue: $127\n\nWeek 1 total: $366.50\n\nBiggest driver: DM conversion flow. We're closing 23% of warm leads at $24.99 tier.\n\nThe math:\n- 100 profile visits → 12 DMs → 3 conversions = $75\n- Do that 5x/day = $375/day potential\n\nWe're at ~30% of ceiling. Room to scale."
+    },
+    {
+      "id": 9483726502,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-06T09:10:00+08:00",
+      "full_tweet": "Fanvue retention hack that added $200/mo:\n\nWelcome DM sequence (automated):\n1. \"Hey! Thanks for subbing 💕\" (immediate)\n2. \"What made you subscribe?\" (2h later)\n3. Custom content offer based on answer (24h)\n\nConversion on step 3: 34%\nAverage upsell: $18\n\nSet it once. Runs forever."
+    },
+    {
+      "id": 9483726503,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-06T09:10:00+08:00",
+      "full_tweet": "Prompt engineering for AI influencers — the actual formula:\n\nBase: \"Filipina woman, early 20s, medium brown skin, gold hoop earrings\"\n+ Location: \"BGC cafe, natural light, afternoon\"\n+ Pose: \"casual smile, phone in hand, looking at camera\"\n+ Style: \"candid iPhone photo, slight grain\"\n\nSave as preset. Swap location/pose. Character stays consistent."
+    },
+    {
+      "id": 9483726504,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-06T09:10:00+08:00",
+      "full_tweet": "Tool that saved us 3 hours/day:\n\nConvex + Vercel webhook pipeline.\n\nNew prompt added to JSON → Convex triggers → Vercel rebuilds → live site updates in 12 seconds.\n\nNo manual deploys. No waiting. No \"did it push?\" anxiety.\n\nCost: $0 (free tiers)\nSetup: 45 minutes\nTime saved: 15 hours/week"
+    },
+    {
+      "id": 9483726505,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-06T09:10:00+08:00",
+      "full_tweet": "Spent 2 weeks \"optimizing\" before launch.\n\nResult: $0, zero data, zero learnings.\n\nLaunched ugly Day 1:\n- Basic prompts\n- Simple landing page\n- Manual DMs\n\nMade $12.50.\n\nThen iterated daily. Now at $127/day.\n\nPerfection is expensive. Shipping is free.\n\nLaunch before you're ready."
+    },
+    {
       "id": 8372615490,
       "account": "kaivoss",
       "handle": "@kaivoss",
