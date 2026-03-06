@@ -483,6 +483,226 @@
       "status": "pending",
       "createdAt": "2026-03-06T03:03:00.000Z",
       "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Magellan's Cross Cebu, historic landmark, cultural heritage exploration, travel diary moment",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with soft chapel light glow, natural skin texture visible, dark brown-black hair in modest low bun with headscarf draped loosely, minimal makeup with natural serene expression, petite fit figure, wearing respectful knee-length sundress in soft blue, holding iPhone for selfie at historic chapel, reverent curious expression exploring Philippine history, cultural heritage tourism vibe",
+          "environment": "Magellan's Cross Chapel in Cebu City, historic wooden cross inside octagonal chapel, religious icons and candles, stone walls with plaques describing history, other tourists and pilgrims visiting, soft natural light filtering through chapel windows, significant Filipino-Spanish colonial landmark",
+          "lighting": "Soft diffused chapel light through stained glass, 4000K warm and reverent, Smart HDR preserving cross detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, chapel interior selfie with historic cross, vertical 9:16",
+          "processing": "Apple ProRAW, warm heritage grading, respectful muted tones",
+          "imperfections": "Natural chapel lighting, slight shadow from headscarf, authentic cultural respect moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Magellan's Cross Cebu selfie, young Filipina woman early 20s, warm golden skin chapel light glow visible texture, dark modest low bun headscarf draped, minimal makeup natural serene expression, petite fit figure, respectful knee-length sundress soft blue, phone selfie historic chapel, reverent curious expression, Magellan's Cross Chapel Cebu City, historic wooden cross octagonal chapel, religious icons candles, stone walls plaques history, tourists pilgrims visiting, soft natural light chapel windows, Filipino-Spanish colonial landmark, soft diffused chapel light stained glass 4000K warm reverent, Smart HDR cross detail skin, Apple ProRAW warm heritage grading, natural chapel lighting headscarf shadow, authentic Pinay cultural heritage aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Chocolate Hills Bohol, iconic Philippine natural wonder, scenic viewpoint adventure travel",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with golden outdoor glow, natural skin texture with light wind exposure, dark brown-black hair in practical ponytail with bandana, minimal makeup with SPF and lip balm, petite fit figure, wearing breathable hiking shirt and cargo shorts, holding iPhone for selfie at viewpoint, excited awestruck expression at natural wonder, adventure travel explorer vibe",
+          "environment": "Chocolate Hills viewpoint in Bohol, iconic cone-shaped hills stretching to horizon, dry brown grass in dry season or green in wet season, observation deck with railings, other tourists taking photos, rural Bohol countryside landscape, one of Philippines' most famous natural landmarks",
+          "lighting": "Bright natural daylight, 5500K clear and vibrant, Smart HDR preserving hill detail and sky",
+          "camera_gear": "iPhone 16 Pro Max, main lens, viewpoint selfie with Chocolate Hills panorama, vertical 9:16",
+          "processing": "Apple ProRAW, natural landscape grading, earthy browns and greens with blue sky",
+          "imperfections": "Windblown hair, natural outdoor lighting, authentic tourist viewpoint moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Chocolate Hills Bohol selfie, young Filipina woman early 20s, warm golden skin outdoor glow visible texture, dark practical ponytail bandana, minimal makeup SPF lip balm, petite fit figure, breathable hiking shirt cargo shorts, phone selfie viewpoint, excited awestruck expression natural wonder, Chocolate Hills viewpoint Bohol, iconic cone-shaped hills horizon, dry brown grass green wet season, observation deck railings, tourists taking photos, rural Bohol countryside landscape, famous Philippine natural landmark, bright natural daylight 5500K clear vibrant, Smart HDR hill detail sky, Apple ProRAW natural landscape grading, windblown hair natural outdoor lighting, authentic Pinay adventure travel aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Banaue Rice Terraces, ancient UNESCO heritage site, mountain province trekking, indigenous culture",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with cool mountain air flush, natural skin texture, dark brown-black hair in practical braids, minimal makeup fresh mountain air glow, petite fit figure, wearing light trekking jacket over athletic wear, holding iPhone for selfie at terrace viewpoint, peaceful amazed expression at ancient wonder, cultural heritage trekking vibe",
+          "environment": "Banaue Rice Terraces in Mountain Province, 2000-year-old terraces carved into mountains by Ifugao people, lush green rice paddies cascading down mountainside, traditional Ifugao huts visible, misty mountain backdrop, UNESCO World Heritage site, other trekkers and locals, breathtaking Philippine cultural landscape",
+          "lighting": "Soft mountain morning light with mist, 5000K cool and atmospheric, Smart HDR preserving terrace detail and mountain layers",
+          "camera_gear": "iPhone 16 Pro Max, main lens, terrace viewpoint selfie with mountain backdrop, vertical 9:16",
+          "processing": "Apple ProRAW, atmospheric mountain grading, layered greens and misty blues",
+          "imperfections": "Slight mountain chill flush on skin, natural trekking outfit, authentic heritage site visit"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Banaue Rice Terraces selfie, young Filipina woman early 20s, warm golden skin mountain air flush visible texture, dark practical braids, minimal makeup fresh mountain glow, petite fit figure, light trekking jacket athletic wear, phone selfie terrace viewpoint, peaceful amazed expression ancient wonder, Banaue Rice Terraces Mountain Province, 2000-year-old terraces carved mountains Ifugao, lush green rice paddies cascading mountainside, traditional Ifugao huts visible, misty mountain backdrop, UNESCO World Heritage site, trekkers locals, Philippine cultural landscape, soft mountain morning light mist 5000K cool atmospheric, Smart HDR terrace detail mountain layers, Apple ProRAW atmospheric mountain grading, mountain chill flush natural trekking outfit, authentic Pinay heritage trekking aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Palawan underground river, boat tour through cave, UNESCO natural wonder, adventure exploration",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with cave humidity glow, natural skin texture, dark brown-black hair tied back under safety helmet, minimal makeup with natural expression, petite fit figure, wearing life vest over quick-dry shirt, sitting in paddle boat holding iPhone for selfie inside cave, excited whispered expression at underground wonder, adventure cave exploration vibe",
+          "environment": "Puerto Princesa Underground River in Palawan, UNESCO World Heritage site, limestone cave with stalactites and stalagmites, narrow river passage through cave, boat with paddle guide, other tourists in boats, headlamps illuminating cave formations, one of New7Wonders of Nature, dark cave interior with river reflection",
+          "lighting": "Mixed headlamp and natural cave entrance light, 3500K warm and mysterious, Smart HDR preserving cave formations and faces",
+          "camera_gear": "iPhone 16 Pro Max, main lens, cave boat selfie with stalactites, Night Mode, vertical 9:16",
+          "processing": "Apple ProRAW, mysterious cave grading, enhanced rock textures and water reflections",
+          "imperfections": "Cave humidity on skin, helmet hair, authentic underground adventure moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max underground river cave selfie Palawan, young Filipina woman early 20s, warm golden skin cave humidity glow visible texture, dark tied back safety helmet, minimal makeup natural expression, petite fit figure, life vest quick-dry shirt, sitting paddle boat phone selfie inside cave, excited whispered expression underground wonder, Puerto Princesa Underground River Palawan, UNESCO World Heritage site, limestone cave stalactites stalagmites, narrow river passage cave, boat paddle guide, tourists boats, headlamps illuminating cave formations, New7Wonders Nature, dark cave interior river reflection, mixed headlamp natural cave entrance light 3500K warm mysterious, Smart HDR cave formations faces, Apple ProRAW mysterious cave grading, cave humidity skin helmet hair, authentic Pinay cave exploration aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Vigan Calle Crisologo, Spanish colonial street, horse-drawn kalesa, heritage city evening charm",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with golden evening street light, natural skin texture visible, dark brown-black hair in romantic loose waves, minimal makeup with warm rose tones, petite fit figure, wearing vintage-inspired midi dress with floral print, holding iPhone for selfie on cobblestone street, dreamy nostalgic expression at heritage beauty, colonial charm tourism vibe",
+          "environment": "Calle Crisologo in Vigan City, UNESCO World Heritage cobblestone street, Spanish colonial houses with capiz shell windows, horse-drawn kalesa parked along street, vintage street lamps glowing at dusk, other tourists strolling, preserved Filipino-Spanish colonial architecture, one of Philippines' best heritage sites",
+          "lighting": "Warm vintage street lamp light at dusk, 3200K golden and nostalgic, Smart HDR preserving colonial architecture and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, heritage street selfie with colonial houses, Portrait Mode with lamp bokeh, vertical 9:16",
+          "processing": "Apple ProRAW, warm nostalgic grading, vintage film-inspired tones",
+          "imperfections": "Natural evening light, slight motion from walking cobblestones, authentic heritage evening stroll"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Vigan Calle Crisologo selfie, young Filipina woman early 20s, warm golden skin evening street light visible texture, dark romantic loose waves, minimal makeup warm rose tones, petite fit figure, vintage-inspired midi dress floral print, phone selfie cobblestone street, dreamy nostalgic expression heritage beauty, Calle Crisologo Vigan City, UNESCO World Heritage cobblestone street, Spanish colonial houses capiz shell windows, horse-drawn kalesa parked street, vintage street lamps glowing dusk, tourists strolling, Filipino-Spanish colonial architecture, Philippine heritage site, warm vintage street lamp light dusk 3200K golden nostalgic, Smart HDR colonial architecture skin, Apple ProRAW warm nostalgic grading, natural evening light cobblestone walking, authentic Pinay heritage city aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Tarsier Sanctuary Bohol, holding tiny primate gently, wildlife conservation encounter, nature lover moment",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with soft forest light, natural skin texture, dark brown-black hair in casual ponytail, minimal makeup with gentle caring expression, petite fit figure, wearing earth-tone conservation volunteer shirt, holding tiny Philippine tarsier gently in cupped hands, taking selfie with sanctuary forest background, tender amazed smile at tiny creature, wildlife conservation lover vibe",
+          "environment": "Tarsier Sanctuary in Bohol, protected forest habitat with trees and foliage, small enclosed viewing areas for tarsiers, other visitors observing quietly, sanctuary signage about conservation, natural forest lighting filtering through canopy, Philippine endemic wildlife encounter space",
+          "lighting": "Soft natural forest light through canopy, 5000K diffused and gentle, Smart HDR preserving tarsier detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, wildlife encounter selfie with tarsier, vertical 9:16",
+          "processing": "Apple ProRAW, natural forest grading, soft greens and earth tones",
+          "imperfections": "Natural forest lighting, gentle handling pose, authentic wildlife conservation moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max tarsier sanctuary selfie Bohol, young Filipina woman early 20s, warm golden skin forest light visible texture, dark casual ponytail, minimal makeup gentle caring expression, petite fit figure, earth-tone conservation volunteer shirt, holding tiny Philippine tarsier gently cupped hands, phone selfie sanctuary forest background, tender amazed smile tiny creature, Tarsier Sanctuary Bohol, protected forest habitat trees foliage, small enclosed viewing areas tarsiers, visitors observing quietly, sanctuary signage conservation, natural forest lighting canopy, Philippine endemic wildlife, soft natural forest light canopy 5000K diffused gentle, Smart HDR tarsier detail skin, Apple ProRAW natural forest grading, natural forest lighting gentle handling, authentic Pinay wildlife conservation aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Pink Beach Samal, rare pink sand beach, tropical island paradise, unique natural phenomenon",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with tropical sun kiss, natural skin texture with healthy glow, dark brown-black hair in beachy braids with shells, minimal makeup with coral tint and SPF, petite fit figure, wearing white crochet bikini with sheer cover-up, sitting on rare pink sand beach holding iPhone for selfie, joyful discovery expression at unique beach, tropical island paradise vibe",
+          "environment": "Pink Beach on Samal Island, rare pink sand from crushed coral and foraminifera, crystal-clear turquoise water lapping shore, palm trees providing shade, few other visitors on secluded beach, tropical island setting near Davao, unique Philippine natural phenomenon",
+          "lighting": "Bright tropical midday sun, 5500K vibrant and clear, Smart HDR preserving pink sand color and water clarity",
+          "camera_gear": "iPhone 16 Pro Max, main lens, pink beach selfie with turquoise water, vertical 9:16",
+          "processing": "Apple ProRAW, vibrant tropical grading, enhanced pink sand and blue water contrast",
+          "imperfections": "Sand on legs from beach, windblown hair, authentic tropical beach discovery"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Pink Beach Samal selfie, young Filipina woman early 20s, warm golden skin tropical sun kiss visible texture, dark beachy braids shells, minimal makeup coral tint SPF, petite fit figure, white crochet bikini sheer cover-up, sitting rare pink sand beach phone selfie, joyful discovery expression unique beach, Pink Beach Samal Island, rare pink sand crushed coral foraminifera, crystal-clear turquoise water lapping shore, palm trees shade, few visitors secluded beach, tropical island near Davao, Philippine natural phenomenon, bright tropical midday sun 5500K vibrant clear, Smart HDR pink sand water clarity, Apple ProRAW vibrant tropical grading, sand legs windblown hair, authentic Pinay tropical paradise aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Kawasan Falls Cebu, turquoise waterfall swimming, canyoneering adventure, refreshing natural pool",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin wet from waterfall mist, natural skin texture glowing with water, dark brown-black hair slicked back wet from swimming, minimal makeup washed off from water activity, petite fit figure, wearing athletic swimsuit in teal, sitting on rock ledge at waterfall base holding iPhone for selfie, refreshed exhilarated expression after swim, adventure nature lover vibe",
+          "environment": "Kawasan Falls in Cebu, multi-tiered turquoise waterfall cascading over limestone cliffs, natural swimming pool at base with incredibly blue water, lush tropical vegetation surrounding falls, other swimmers and canyoneers enjoying the water, mist from waterfall creating rainbow effects, famous Cebu natural attraction",
+          "lighting": "Natural daylight filtering through jungle canopy and waterfall mist, 5500K bright with rainbow refractions, Smart HDR preserving waterfall detail and water color",
+          "camera_gear": "iPhone 16 Pro Max, main lens, waterfall selfie with turquoise cascade, waterproof case implied, vertical 9:16",
+          "processing": "Apple ProRAW, vibrant water grading, enhanced turquoise blues and jungle greens",
+          "imperfections": "Completely wet hair and skin, water droplets on lens, authentic waterfall swimming moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Kawasan Falls Cebu selfie, young Filipina woman early 20s, warm golden skin wet waterfall mist glowing water, dark slicked back wet swimming, minimal makeup washed off water activity, petite fit figure, athletic swimsuit teal, sitting rock ledge waterfall base phone selfie, refreshed exhilarated expression swim, Kawasan Falls Cebu, multi-tiered turquoise waterfall limestone cliffs, natural swimming pool base blue water, lush tropical vegetation surrounding falls, swimmers canyoneers enjoying water, mist waterfall rainbow effects, famous Cebu natural attraction, natural daylight jungle canopy waterfall mist 5500K bright rainbow refractions, Smart HDR waterfall detail water color, Apple ProRAW vibrant water grading, completely wet hair skin water droplets lens, authentic Pinay waterfall adventure aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Manila Ocean Park, underwater tunnel with sharks and rays, marine life wonder, educational aquarium visit",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with blue aquarium light reflection, natural skin texture visible, dark brown-black hair in casual half-up style, minimal makeup with natural wonder expression, petite fit figure, wearing casual tourist outfit in ocean-blue top, standing in underwater tunnel holding iPhone for selfie with sharks swimming overhead, amazed childlike smile at marine life, ocean explorer vibe",
+          "environment": "Manila Ocean Park underwater tunnel, 25-meter curved acrylic tunnel with sharks, rays, and schools of fish swimming overhead and around, deep blue water creating immersive ocean experience, other visitors walking through tunnel, educational marine aquarium in Manila, artificial lighting illuminating marine life",
+          "lighting": "Blue aquarium lighting creating underwater ambiance, 6000K cool and aquatic, Smart HDR preserving marine life detail and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, underwater tunnel selfie with sharks overhead, vertical 9:16",
+          "processing": "Apple ProRAW, aquatic blue grading, enhanced ocean atmosphere",
+          "imperfections": "Blue light reflection on skin, slight motion from walking tunnel, authentic aquarium wonder moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Manila Ocean Park underwater tunnel selfie, young Filipina woman early 20s, warm golden skin blue aquarium light reflection visible texture, dark casual half-up style, minimal makeup natural wonder expression, petite fit figure, casual tourist outfit ocean-blue top, standing underwater tunnel phone selfie sharks swimming overhead, amazed childlike smile marine life, Manila Ocean Park underwater tunnel, 25-meter curved acrylic tunnel sharks rays schools fish, deep blue water immersive ocean experience, visitors walking tunnel, educational marine aquarium Manila, artificial lighting illuminating marine life, blue aquarium lighting underwater ambiance 6000K cool aquatic, Smart HDR marine life detail skin, Apple ProRAW aquatic blue grading, blue light reflection skin tunnel walking, authentic Pinay ocean explorer aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
+    },
+    {
+      "scene_idea": "Mira Cruz at Paoay Sand Dunes Ilocos, desert-like landscape, ATV adventure, unique Philippine desert experience",
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with golden desert sun glow and light sand dust, natural skin texture, dark brown-black hair in messy windblown ponytail, minimal makeup with SPF and lip balm, petite fit figure, wearing desert-appropriate tank top and shorts with bandana around neck, standing atop massive sand dune holding iPhone for selfie, adventurous thrilled expression at unique landscape, desert explorer vibe",
+          "environment": "Paoay Sand Dunes in Ilocos Norte, vast desert-like landscape with massive rolling sand dunes, sparse vegetation, mountain backdrop, ATV tracks visible in sand, other tourists doing sandboarding and ATV rides, unique Philippine desert experience in northern Luzon, late afternoon golden light on dunes",
+          "lighting": "Late afternoon desert sun, 4500K warm and golden, long shadows on dune ridges, Smart HDR preserving sand texture and sky",
+          "camera_gear": "iPhone 16 Pro Max, main lens, sand dune selfie with desert panorama, vertical 9:16",
+          "processing": "Apple ProRAW, warm desert grading, enhanced golden sand and blue sky contrast",
+          "imperfections": "Sand on skin and clothes, windblown hair, authentic desert adventure messiness"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Paoay Sand Dunes Ilocos selfie, young Filipina woman early 20s, warm golden skin desert sun glow sand dust visible texture, dark messy windblown ponytail, minimal makeup SPF lip balm, petite fit figure, desert-appropriate tank top shorts bandana neck, standing atop massive sand dune phone selfie, adventurous thrilled expression unique landscape, Paoay Sand Dunes Ilocos Norte, vast desert-like landscape massive rolling sand dunes, sparse vegetation, mountain backdrop, ATV tracks sand, tourists sandboarding ATV rides, unique Philippine desert northern Luzon, late afternoon desert sun 4500K warm golden, long shadows dune ridges, Smart HDR sand texture sky, Apple ProRAW warm desert grading, sand skin clothes windblown hair, authentic Pinay desert explorer aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      },
+      "status": "pending",
+      "createdAt": "2026-03-07T03:01:00.000Z",
+      "usedAt": null
     }
   ]
 }
