@@ -1,6 +1,51 @@
 {
   "kaivoss": [
     {
+      "id": 1073849265011,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "revenue-update",
+      "source": "zara-cron",
+      "createdAt": "2026-03-07T09:12:00+08:00",
+      "full_tweet": "Mira Day 9 update:\n\nDaily average this week: $134\nWeek 1 total: $366.50\nWeek 2 (Day 8+9): $281\n\nWe crossed $600 total yesterday.\n\nWhat moved the needle this week:\n- Upsell DM rewrite (+19% conversion)\n- Posted 3x/day instead of 2x (+22% profile visits)\n- Added weekend content batch (Sat/Sun traffic is real)\n\nOn pace for $2,400 Month 1."
+    },
+    {
+      "id": 1073849265012,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-07T09:12:00+08:00",
+      "full_tweet": "The content schedule that's actually working on Fanvue:\n\n7AM — lifestyle post (morning routine, coffee, aesthetic)\n1PM — personality post (polls, \"this or that\", opinion)\n8PM — closer post (higher engagement, warmer audience)\n\nEvening posts convert 2.3x better than morning.\n\nTest your timing. Most operators guess. We track."
+    },
+    {
+      "id": 1073849265013,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-07T09:12:00+08:00",
+      "full_tweet": "How we batch Mira's content for an entire week in 90 minutes:\n\n1. Generate 21 base images (3/day) in one sitting\n2. Write captions with ChatGPT — give it 3 Mira examples first\n3. Schedule via buffer\n4. Prep 5 DM response templates for the week\n\nSunday batch → runs on autopilot Mon-Sat.\n\nTime invested: 90 min\nTime saved: 8 hours"
+    },
+    {
+      "id": 1073849265014,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-07T09:12:00+08:00",
+      "full_tweet": "We nearly paid $140/mo for tools we didn't need.\n\nActual stack that runs Mira for $0/mo:\n\n- Fanvue → free to start (takes %, no upfront)\n- Convex → free tier covers our DB load\n- Vercel → free tier, unlimited deploys\n- Buffer → free tier, 10 scheduled posts\n- n8n (self-hosted) → DM automation\n\nRevenue at $134/day. Overhead: $0.\n\nBootstrap before you subscribe."
+    },
+    {
+      "id": 1073849265015,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-07T09:12:00+08:00",
+      "full_tweet": "People keep asking: \"Is AI OFM saturated?\"\n\nMonth 1 of Mira: $600+ with zero audience, zero ads.\n\nHere's what's actually saturated: excuses about saturation.\n\nThe operators who launch, track, and iterate are making money.\nThe ones researching if it's \"still viable\" are still researching.\n\nData > vibes. Ship the thing."
+    },
+    {
       "id": 9483726501,
       "account": "kaivoss",
       "handle": "@kaivoss",

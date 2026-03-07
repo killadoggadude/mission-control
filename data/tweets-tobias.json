@@ -99,6 +99,56 @@
       "status": "pending",
       "createdAt": "2026-03-06T09:06:00+08:00",
       "full_tweet": "What's the biggest lie people tell about AI coding?\n\nMine: \"It makes you dependent.\"\n\nNah. It makes you dangerous.\n\nI ship in days what took weeks last year. That's not dependency. That's evolution.\n\nWhat's yours?"
+    },
+    {
+      "id": 2194840167,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-07T09:08:00+08:00",
+      "full_tweet": "Saturday morning. No Slack. No meetings. Just me, Cursor, and a feature backlog that used to take 3 days.\n\nIt's 9 AM. I've already shipped 2 things.\n\nThis is what vibe coding actually feels like.\n\nNot magic. Just focus + leverage."
+    },
+    {
+      "id": 3205951278,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-07T09:08:00+08:00",
+      "full_tweet": "\"You should still learn to code.\"\n\nSure. But learn to direct, not just implement.\n\nSenior devs aren't scared of AI.\nJunior devs who only memorize syntax are.\n\nThe shift: executor → architect.\n\nThat's the actual career advice nobody's giving."
+    },
+    {
+      "id": 4317062389,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-07T09:08:00+08:00",
+      "full_tweet": "Most underrated AI coding hack:\n\nA 50-line .cursorrules file.\n\nMine tells Cursor:\n- My stack preferences\n- Error handling patterns I actually like\n- What NOT to do (learned from 12 painful refactors)\n\nBefore: constant corrections\nAfter: AI writes like I wrote it\n\nOne file. Saved 3+ hours this week."
+    },
+    {
+      "id": 5428173490,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-07T09:08:00+08:00",
+      "full_tweet": "Day 48 build-in-public:\n\n- Shipped: auth flow + 2 dashboard widgets\n- AI wrote: ~2,100 lines\n- I reviewed/tweaked: ~300 lines\n- New MRR: +$180 (small, but it compounds)\n- Time: 4 hours, not 14\n\nThe velocity gap between builders who use AI and those who don't is becoming a chasm."
+    },
+    {
+      "id": 6539284601,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-07T09:08:00+08:00",
+      "full_tweet": "What are you building this weekend?\n\nNot \"planning to build.\" Not \"researching.\"\n\nActually building.\n\nDrop a reply. I'll give real feedback on your first 3 blockers."
     }
   ]
 }
