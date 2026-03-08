@@ -149,6 +149,56 @@
       "status": "pending",
       "createdAt": "2026-03-07T09:08:00+08:00",
       "full_tweet": "What are you building this weekend?\n\nNot \"planning to build.\" Not \"researching.\"\n\nActually building.\n\nDrop a reply. I'll give real feedback on your first 3 blockers."
+    },
+    {
+      "id": 7640395712,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-08T09:08:00+08:00",
+      "full_tweet": "Sunday shipping session.\n\n3 hours. 1 feature that would've taken me 2 days last year.\n\nAI wrote the CRUD. I wrote the business logic that actually matters.\n\nVibe coding = knowing what to keep in your head and what to offload.\n\nMy headspace is for decisions, not syntax."
+    },
+    {
+      "id": 8751406823,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-08T09:08:00+08:00",
+      "full_tweet": "Day 49 build-in-public:\n\nWeek 8 wrap-up:\n- 17 features shipped\n- $6.8k MRR added this month\n- 31 hours saved (AI pair programming + tests)\n- 0 burnout days\n\nThe math is simple: AI = more reps. More reps = better products. Better products = more revenue.\n\nStop overthinking. Start shipping."
+    },
+    {
+      "id": 9862517934,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-08T09:08:00+08:00",
+      "full_tweet": "Unpopular opinion:\n\nMost \"AI coding courses\" are selling you the wrong dream.\n\nYou don't need to master prompting.\nYou need to master shipping.\n\nThe best prompt is: \"Make this work, then show me what you did.\"\n\nIterate in public. Learn by doing. Ship daily."
+    },
+    {
+      "id": 1973629045,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-08T09:08:00+08:00",
+      "full_tweet": "My AI stack after 6 months of daily use:\n\n- Cursor: 80% of coding (editor integration is key)\n- Claude: code review + architecture questions\n- Local LLM: quick refactors, no API calls\n\nTotal monthly cost: $67\nTime saved: ~90 hours\n\nROI: 134x. The tools pay for themselves in week 1."
+    },
+    {
+      "id": 2084740156,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-08T09:08:00+08:00",
+      "full_tweet": "What's your biggest blocker to shipping faster right now?\n\nBe honest:\n- Analysis paralysis?\n- Perfectionism?\n- Not sure what to build?\n- Too many tools, not enough action?\n\nDrop it below. Let's figure it out together."
     }
   ]
 }

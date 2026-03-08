@@ -1,13 +1,49 @@
 {
   "kaivoss": [
     {
-      "id": 1073849265011,
+      "id": 1073849265016,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "revenue-update",
       "source": "zara-cron",
-      "createdAt": "2026-03-07T09:12:00+08:00",
-      "full_tweet": "Mira Day 9 update:\n\nDaily average this week: $134\nWeek 1 total: $366.50\nWeek 2 (Day 8+9): $281\n\nWe crossed $600 total yesterday.\n\nWhat moved the needle this week:\n- Upsell DM rewrite (+19% conversion)\n- Posted 3x/day instead of 2x (+22% profile visits)\n- Added weekend content batch (Sat/Sun traffic is real)\n\nOn pace for $2,400 Month 1."
+      "createdAt": "2026-03-08T09:13:00+08:00",
+      "full_tweet": "Mira Day 10 update:\n\nTotal revenue: $748.50\nDay 10 alone: $142\n\nWe hit $700 on Day 9. Now pacing for $2,800 Month 1.\n\nWhat changed:\n- Added $49.99 tier (3 buyers = $150)\n- Weekend posting schedule (Sat/Sun = 18% of weekly revenue)\n- DM response time under 5 min (conversion up 27%)\n\nWeek 2 is outpacing Week 1 by 34%."
+    },
+    {
+      "id": 1073849265017,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-08T09:13:00+08:00",
+      "full_tweet": "The Fanvue pricing test that doubled our AOV:\n\nOriginal: $14.99 flat\nTest: $9.99 / $24.99 / $49.99 tiers\n\nResult:\n- 62% pick $9.99 (volume)\n- 31% pick $24.99 (sweet spot)\n- 7% pick $49.99 (whales)\n\nAverage order value: $18.40 → $26.80 (+45%)\n\nTiered pricing isn't optional. It's mandatory."
+    },
+    {
+      "id": 1073849265018,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-08T09:13:00+08:00",
+      "full_tweet": "AI influencer face consistency — the actual fix:\n\nWe were getting \"different Mira\" complaints until we locked:\n\n- Seed number: 847293 (same for every generation)\n- Face LoRA: trained on 50 base images\n- Negative prompt: \"asymmetric features, different eye color\"\n- Reference image: always include 1 locked Mira shot\n\nConsistency complaints: 12/week → 0/week\n\nLock the seed. Train the LoRA. Done."
+    },
+    {
+      "id": 1073849265019,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-08T09:13:00+08:00",
+      "full_tweet": "DM automation that closes while we sleep:\n\nn8n workflow:\n1. New Fanvue message → webhook trigger\n2. AI classifies intent (casual / warm / buyer)\n3. Casual → friendly response template\n4. Warm → engagement questions + soft pitch\n5. Buyer → custom offer + payment link\n\nClose rate: 31% (vs 12% manual)\nResponse time: 8 seconds avg\nRevenue while sleeping: $89 last night"
+    },
+    {
+      "id": 1073849265020,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-08T09:13:00+08:00",
+      "full_tweet": "10 days in. $748 made.\n\nHere's what I ignored:\n- Twitter threads about \"OFM is dead\"\n- Reddit posts saying AI models don't convert\n- DMs from people selling \"better\" courses\n- Comparison to accounts with 100k followers\n\nHere's what I tracked:\n- Daily revenue\n- Conversion rates\n- What content performed\n- What DM scripts closed\n\nNoise = expensive. Data = profitable.\n\nBuild your thing. Let them talk."
     },
     {
       "id": 1073849265012,
