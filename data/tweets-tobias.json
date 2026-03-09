@@ -199,6 +199,56 @@
       "status": "pending",
       "createdAt": "2026-03-08T09:08:00+08:00",
       "full_tweet": "What's your biggest blocker to shipping faster right now?\n\nBe honest:\n- Analysis paralysis?\n- Perfectionism?\n- Not sure what to build?\n- Too many tools, not enough action?\n\nDrop it below. Let's figure it out together."
+    },
+    {
+      "id": 3195851267,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-09T09:09:00+08:00",
+      "full_tweet": "Day 50. Build-in-public milestone.\n\nNumbers since Day 1:\n- 63 features shipped\n- $11.2k MRR added\n- ~180 hours saved via AI\n- 0 burnout days\n\n50 days ago I had an idea and a blank repo.\n\nYou don't need permission. You need reps."
+    },
+    {
+      "id": 4206962378,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-09T09:09:00+08:00",
+      "full_tweet": "The vibe coding workflow nobody talks about:\n\n1. Describe the feature in plain English\n2. Let AI scaffold the skeleton\n3. You own the edge cases and the taste\n4. Ship. Observe. Iterate.\n\nStep 3 is where 95% of people check out.\n\nThe AI does the typing. You still have to think."
+    },
+    {
+      "id": 5318073489,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-09T09:09:00+08:00",
+      "full_tweet": "Context windows are the new developer salary.\n\nThe engineer who can hold 200k tokens of product context in one session and direct it precisely?\n\nThat's the new 10x developer.\n\nIt's not about typing speed anymore. It's about signal clarity."
+    },
+    {
+      "id": 6429184590,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-09T09:09:00+08:00",
+      "full_tweet": "Most painful lesson from 50 days of shipping:\n\nAI will confidently write broken code. Twice.\n\nFix: never ask AI to fix its own bugs in the same context.\n\nFresh session. Fresh eyes. New prompt.\n\nThe model doesn't know what it doesn't know. That's your job."
+    },
+    {
+      "id": 7530295601,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-09T09:09:00+08:00",
+      "full_tweet": "Monday question:\n\nIf you had to pick ONE AI tool and delete the rest — what stays?\n\nNot what sounds smart. What you'd actually miss at 11pm when you're debugging a deploy.\n\nMine: Cursor. Every time.\n\nWhat's yours?"
     }
   ]
 }

@@ -1,6 +1,51 @@
 {
   "kaivoss": [
     {
+      "id": 1073849265021,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "revenue-update",
+      "source": "zara-cron",
+      "createdAt": "2026-03-09T09:13:00+08:00",
+      "full_tweet": "Mira Day 11 update:\n\nDay 11: $158\nRunning total: $906.50\n\n$1,000 this week. First time saying that out loud.\n\nWhat hit different today:\n- Pinned a \"fan favorites\" post → 41% of new subs bought the bundle\n- Reposted a 3-week-old image in a new caption → $34 from zero new content\n- First renewal came through: $24.99 recurring\n\nRecurring revenue is a different feeling.\n\nWeek 2 total: $540 and counting."
+    },
+    {
+      "id": 1073849265022,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-09T09:13:00+08:00",
+      "full_tweet": "Sub churn is the silent killer. Here's the retention flow that's working:\n\nDay 1: Welcome DM + \"What brought you here?\"\nDay 3: Exclusive post — \"just for this month's subs\"\nDay 7: Personal check-in DM (AI-written, feels human)\nDay 25: Renewal reminder + early bird offer ($3 off next month)\n\nRenewal rate: 61%\nAvg sub lifetime: 2.4 months (vs 1.1 before)\n\nAcquisition is hard. Retention is cheap. Focus there."
+    },
+    {
+      "id": 1073849265023,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-09T09:13:00+08:00",
+      "full_tweet": "We added short video to Mira's content mix. Here's the exact stack:\n\n- Generate 4 images (same scene, slightly varied pose)\n- String into video with Kling AI (3-5 sec loop)\n- Add ambient audio via ElevenLabs (typing sounds, cafe noise)\n- Export at 9:16, post as Reel\n\nVideo posts: 3.8x more profile visits than statics\nFirst reel: 4,200 views, 14 new subs\n\nStatic is fine. Video is a multiplier. Both."
+    },
+    {
+      "id": 1073849265024,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-09T09:13:00+08:00",
+      "full_tweet": "Caption system that takes 4 minutes/week:\n\n1. Dump 21 Mira images into a folder\n2. Feed to GPT-4o: \"Write 21 captions for this AI influencer. Voice: warm, playful, aspirational. Location context: [BGC/Siargao/market]. Max 2 lines.\"\n3. Review → light edits → paste into Buffer\n4. Schedule across 7 days, 3 posts/day\n\nTotal time: 4 min writing + 18 min scheduling\n\n21 captions. $0 extra. Just system."
+    },
+    {
+      "id": 1073849265025,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-09T09:13:00+08:00",
+      "full_tweet": "Week 2 recap. Here's what actually moved revenue:\n\n✅ Added video content (+38% profile reach)\n✅ Sub retention flow (61% renewal rate)\n✅ Weekend posting schedule (18% of weekly revenue hits Sat/Sun)\n✅ Pinned bundle offer (41% conversion on new subs)\n\n❌ Redesigning the profile (wasted 2 hours)\n❌ Testing a new image model (marginal gains, not worth it yet)\n❌ Comparing to accounts 10x our size\n\nDo more of what works. Stop the rest."
+    },
+    {
       "id": 1073849265016,
       "account": "kaivoss",
       "handle": "@kaivoss",
