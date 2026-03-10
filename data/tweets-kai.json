@@ -1,6 +1,51 @@
 {
   "kaivoss": [
     {
+      "id": 1073849265026,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "revenue-update",
+      "source": "zara-cron",
+      "createdAt": "2026-03-10T09:08:00+08:00",
+      "full_tweet": "Mira just crossed $1,000.\n\nDay 12 total: $1,064.50\n\nBreakdown:\n- Subs (recurring): $312.50\n- PPV content: $418\n- Upsells from DM flow: $334\n\nDay 1 we made $0.\nDay 12 we crossed four figures.\n\nNo face. No existing audience. No ad spend.\n\nJust the playbook, running every day."
+    },
+    {
+      "id": 1073849265027,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ofm-tactics",
+      "source": "zara-cron",
+      "createdAt": "2026-03-10T09:08:00+08:00",
+      "full_tweet": "PPV (pay-per-view) is where the real money is.\n\nOur Fanvue PPV setup:\n\n- $8 entry PPV → volume play, low friction\n- $22 mid-tier → exclusive scene or location unlock\n- $45 premium → bundled 10-post pack\n\nThis month's PPV split: 39% of total revenue\n\nSubs get you in the door. PPV scales you up.\n\nDon't sleep on the vault."
+    },
+    {
+      "id": 1073849265028,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "ai-influencer",
+      "source": "zara-cron",
+      "createdAt": "2026-03-10T09:08:00+08:00",
+      "full_tweet": "Mira's top 3 performing image styles this week:\n\n1. Golden hour outdoor (BGC rooftop) — 4.2x avg saves\n2. Cozy cafe interior — highest DM conversion (28%)\n3. Siargao beach casual — most shares, lowest DMs\n\nInsight: saves = aspirational. DMs = intimate.\n\nCafe content closes buyers. Beach content builds reach.\n\nUse both. Know which one you're optimizing for."
+    },
+    {
+      "id": 1073849265029,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "automation-stack",
+      "source": "zara-cron",
+      "createdAt": "2026-03-10T09:08:00+08:00",
+      "full_tweet": "How we track every dollar Mira makes in real time:\n\n- Fanvue webhook → n8n\n- n8n pushes to Convex DB (sale type, amount, tier)\n- Vercel dashboard updates live\n- Daily summary auto-posts to a private Discord channel at midnight\n\nWe always know: which content sold, which DM script closed, which tier converted.\n\nRevenue data > gut feel. Every time."
+    },
+    {
+      "id": 1073849265030,
+      "account": "kaivoss",
+      "handle": "@kaivoss",
+      "type": "operator-mindset",
+      "source": "zara-cron",
+      "createdAt": "2026-03-10T09:08:00+08:00",
+      "full_tweet": "The $1k milestone isn't the win.\n\nThe system is the win.\n\nMira runs on:\n- 20 min of human input/day\n- $0 in monthly overhead\n- A content pipeline that batches in 90 min/week\n- DM flows that close at 31%\n\nThe money scales when the system holds.\n\nBuild the machine first. The revenue follows.\n\nWeek 3 starts today."
+    },
+    {
       "id": 1073849265021,
       "account": "kaivoss",
       "handle": "@kaivoss",

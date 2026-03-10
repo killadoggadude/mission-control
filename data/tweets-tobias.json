@@ -249,6 +249,56 @@
       "status": "pending",
       "createdAt": "2026-03-09T09:09:00+08:00",
       "full_tweet": "Monday question:\n\nIf you had to pick ONE AI tool and delete the rest — what stays?\n\nNot what sounds smart. What you'd actually miss at 11pm when you're debugging a deploy.\n\nMine: Cursor. Every time.\n\nWhat's yours?"
+    },
+    {
+      "id": 8641306712,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-10T09:03:00+08:00",
+      "full_tweet": "Vibe coding rule I don't see anyone talk about:\n\nNever start a session without a one-line goal.\n\nBad: \"work on the dashboard\"\nGood: \"users can filter by date range without a page reload\"\n\nAI drifts if you drift. Specificity is the whole game."
+    },
+    {
+      "id": 9752417823,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-10T09:03:00+08:00",
+      "full_tweet": "Day 51. Build-in-public.\n\n- Shipped: real-time notifications + CSV export\n- AI generated: ~1,800 lines\n- My actual contribution: 4 architectural decisions, 11 edge case fixes\n- Time: 3.5 hours\n- MRR impact: waiting on data\n\nYesterday I hit Day 50. Today I just ship. The streak doesn't care about milestones."
+    },
+    {
+      "id": 1863528934,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-10T09:03:00+08:00",
+      "full_tweet": "The \"AI takes dev jobs\" crowd is looking at the wrong layer.\n\nAI took the 40-hour ticket. It gave back a 4-hour ticket.\n\nThe developers getting replaced aren't being replaced by AI.\nThey're being replaced by ONE developer who uses AI.\n\nThat ratio is only going to get worse. Get on the right side of it."
+    },
+    {
+      "id": 2974639045,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-10T09:03:00+08:00",
+      "full_tweet": "Spent 20 minutes writing a detailed prompt yesterday.\n\nAI nailed it first try.\n\nSpent 3 minutes with a lazy prompt two weeks ago.\n\nSpent 2 hours fixing the output.\n\nThe ROI on clear thinking is still 10x.\n\nAI doesn't fix fuzzy requirements. It just executes them faster."
+    },
+    {
+      "id": 3085750156,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-10T09:03:00+08:00",
+      "full_tweet": "Building in public question for a Tuesday:\n\nWhat did you ship last week that you're NOT proud of?\n\nNot the wins. The mediocre stuff you pushed anyway.\n\nI shipped a feature that was 70% of what I wanted. It works. Users use it. I still cringe.\n\nShipping ugly > not shipping perfect."
     }
   ]
 }
