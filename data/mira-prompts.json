@@ -175,6 +175,160 @@
         "full_prompt_string": "Shot on iPhone 16 Pro Max Manila North Cemetery Undas candlelit selfie, young Filipina woman early 20s, warm golden skin candlelight glow serene respectful texture, dark modest low ponytail, minimal makeup natural reverent expression, petite fit figure, simple black dress, holding candle family grave Undas All Saints Day, phone selfie respectful, peaceful contemplative smile, Manila North Cemetery Undas November 1st, elaborate family tombs mausoleums decorated flowers candles, thousands candles sea of light, families gathered graves picnics praying, church choir singing, unique Filipino celebration life death atmosphere, thousands candle flames warm ambient glow 2800K intimate reverent, Smart HDR candle detail skin, Apple ProRAW reverent memorial grading, natural candlelight flicker emotional authentic moment, authentic Pinay Undas tradition aesthetic, 9:16 vertical",
         "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
       }
+    },
+    {
+      "scene_idea": "Mira Cruz surfing at Cloud 9 Siargao, catching a wave, athletic ocean energy, surf girl island life",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin sun-kissed and glistening with ocean spray, natural skin texture athletic and toned, dark brown-black hair soaked and slicked back from seawater, minimal makeup completely bare-faced, petite fit athletic figure, wearing coral reef-safe rash guard and board shorts, riding a longboard on a foamy wave at Cloud 9, arms outstretched for balance, exhilarated wide grin, action shot from companion's iPhone on the shore",
+          "environment": "Cloud 9 surf break Siargao, famous hollow reef break with glassy green barrels, crystal clear turquoise water, wooden boardwalk viewing platform visible in background, other surfers paddling out in lineup, lush tropical coastline, Siargao's iconic surf destination atmosphere",
+          "lighting": "Bright tropical morning sun, 6000K clear and sharp, ocean backlight creating halo on water droplets, Smart HDR freeze action and preserve skin highlights",
+          "camera_gear": "iPhone 16 Pro Max, telephoto lens, action surf shot from shore, burst mode capture, vertical 9:16",
+          "processing": "Apple ProRAW, vivid action sports grading, enhanced ocean blues and white foam",
+          "imperfections": "Ocean spray on lens, motion blur on wave edges, wet hair plastered to face, authentic surf wipeout energy"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Cloud 9 Siargao surf action shot, young Filipina woman early 20s, warm sun-kissed brown skin glistening ocean spray athletic toned, dark hair soaked slicked back seawater, completely bare-faced minimal makeup, petite fit athletic figure, coral rash guard board shorts, riding longboard foamy wave Cloud 9 arms outstretched balance, exhilarated wide grin, companion iPhone shore action shot, Cloud 9 surf break Siargao, famous hollow reef break glassy green barrels, crystal clear turquoise water, wooden boardwalk viewing platform background, surfers paddling lineup, lush tropical coastline, Siargao iconic surf destination, bright tropical morning sun 6000K clear sharp, ocean backlight halo water droplets, Smart HDR freeze action preserve skin highlights, telephoto burst mode capture, Apple ProRAW vivid action sports grading, ocean spray lens motion blur wave edges wet hair face, authentic Pinay surf girl aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz at a BGC specialty coffee shop, laptop open, matcha latte, work-from-cafe hustle aesthetic",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin in soft diffused window light, natural skin texture relaxed and focused, dark brown-black hair in effortless half-up clip, minimal makeup with tinted lip balm and light mascara, petite fit figure, wearing an oversized beige linen button-down, sitting at cafe table with MacBook open and matcha latte with latte art, glancing up from screen with a small knowing smile, phone propped for selfie shot, creative hustle work-from-cafe energy",
+          "environment": "BGC specialty coffee shop, minimalist Japandi-inspired interior with exposed concrete walls, warm pendant lights, floor-to-ceiling windows with city view, potted plants, other young creatives and remote workers at tables, specialty coffee bar visible in background, BGC productive cafe culture",
+          "lighting": "Soft diffused window light from floor-to-ceiling glass, 5200K neutral-warm, gentle fill from pendant lights, Smart HDR preserving skin and laptop screen glow",
+          "camera_gear": "iPhone 16 Pro Max, main lens, cafe table selfie with laptop and matcha, Portrait Mode soft cafe bokeh, vertical 9:16",
+          "processing": "Apple ProRAW, warm neutral cafe grading, soft beige and green tones",
+          "imperfections": "Natural window light falloff on one side, latte art slightly imperfect, authentic work session candid moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max BGC specialty coffee shop work selfie, young Filipina woman early 20s, warm medium brown skin soft diffused window light relaxed texture, dark half-up clip effortless, minimal makeup tinted lip balm light mascara, petite fit figure, oversized beige linen button-down, sitting cafe table MacBook open matcha latte latte art, glancing up screen small knowing smile, phone propped selfie, BGC specialty coffee shop minimalist Japandi interior exposed concrete walls, warm pendant lights, floor-to-ceiling windows city view, potted plants, young creatives remote workers tables, specialty coffee bar background, BGC productive cafe culture, soft diffused window light 5200K neutral-warm, gentle fill pendant lights, Smart HDR skin laptop screen glow, Portrait Mode soft cafe bokeh, Apple ProRAW warm neutral cafe grading, natural window light falloff latte art imperfect, authentic Pinay work-from-cafe aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz at Poblacion night market Makati, street food in hand, neon lights, late night vibes",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin lit by colorful neon signs and market fairy lights, natural skin texture vibrant in mixed light, dark brown-black hair down with subtle loose waves, minimal makeup with bold dark lip as the sole statement, petite fit figure, wearing a cropped black tank and wide-leg trousers, holding isaw on a stick and a cold bottle of beer, laughing mid-bite for an candid selfie, authentic late-night-out with-friends energy",
+          "environment": "Poblacion Makati night market alley, crowded narrow street lined with street food stalls, colorful neon bar signs in Filipino and English, fairy lights strung overhead, vendors grilling isaw and kwek kwek, groups of young locals and expats mingling, Poblacion's trendy eclectic night scene",
+          "lighting": "Mixed neon and warm incandescent market lighting, 2700-4000K chaotic and vibrant, colored neon glow on skin, Smart HDR preserving neon detail and facial features",
+          "camera_gear": "iPhone 16 Pro Max, main lens, Poblacion night market selfie, Night Mode with neon ambient, vertical 9:16",
+          "processing": "Apple ProRAW, punchy night market grading, enhanced neon saturation with natural skin",
+          "imperfections": "Neon color cast on skin, slight lens flare from overhead lights, authentic late-night street food mess"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Poblacion Makati night market selfie, young Filipina woman early 20s, warm brown skin colorful neon market fairy lights vibrant mixed light texture, dark hair down loose waves, minimal makeup bold dark lip statement, petite fit figure, cropped black tank wide-leg trousers, holding isaw stick cold beer, laughing mid-bite candid selfie, Poblacion Makati night market alley, crowded narrow street street food stalls, colorful neon bar signs Filipino English, fairy lights strung overhead, vendors grilling isaw kwek kwek, young locals expats mingling, Poblacion trendy eclectic night scene, mixed neon warm incandescent market lighting 2700-4000K chaotic vibrant, colored neon glow skin, Smart HDR neon detail facial features, Night Mode neon ambient, Apple ProRAW punchy night market grading, neon color cast skin lens flare overhead lights late-night street food, authentic Pinay Poblacion night aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz at Manila Bay Baywalk at sunset, golden hour silhouette, romantic reflective mood, iconic Manila view",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin bathed in intense golden hour light, skin luminous with warm orange glow, dark brown-black hair loose and windswept from bay breeze, minimal makeup glowing skin and soft pink lips catching sunlight, petite fit figure, wearing a flowy terracotta maxi skirt and white fitted top, standing at Manila Bay seawall railing, looking out at the sunset with a soft contemplative expression, slight turn toward camera, golden hour portrait energy",
+          "environment": "Manila Bay Baywalk, famous pinkish-white reclaimed sand, wide open bay with spectacular sunset sky in fiery oranges and purples, Manila Hotel silhouette in background, vendors with cotton candy visible, locals and couples walking the promenade, iconic Manila sunset destination",
+          "lighting": "Intense golden hour sun near horizon, 2500-3000K warm and dramatic, strong rim lighting on hair and shoulders, sky on fire with orange and purple gradients, Smart HDR preserving blown highlights and shadow skin detail",
+          "camera_gear": "iPhone 16 Pro Max, main lens, Manila Bay golden hour portrait, slight backlight silhouette with fill from reflected bay water, vertical 9:16",
+          "processing": "Apple ProRAW, cinematic golden hour grading, rich warm tones and deep purples in sky",
+          "imperfections": "Bay breeze windswept hair across face, slight lens flare from setting sun, sand on sandals, authentic Manila sunset moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Manila Bay Baywalk golden hour portrait, young Filipina woman early 20s, warm brown skin intense golden hour luminous orange glow, dark hair loose windswept bay breeze, minimal makeup glowing skin soft pink lips sunlight, petite fit figure, flowy terracotta maxi skirt white fitted top, standing Manila Bay seawall railing, looking out sunset soft contemplative expression slight turn camera, golden hour portrait energy, Manila Bay Baywalk famous pinkish-white sand, wide open bay spectacular sunset sky fiery oranges purples, Manila Hotel silhouette background, cotton candy vendors couples promenade, iconic Manila sunset destination, intense golden hour sun horizon 2500-3000K warm dramatic, strong rim lighting hair shoulders, sky fire orange purple gradients, Smart HDR blown highlights shadow skin, slight backlight silhouette fill reflected bay water, Apple ProRAW cinematic golden hour grading, bay breeze windswept hair lens flare setting sun sand sandals, authentic Pinay Manila Bay sunset aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz at Tagaytay ridge with Taal Volcano view, cool misty morning, cozy sweater, highland escape",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with cool highland freshness, rosy cheeks from cool air, natural skin texture healthy and dewy, dark brown-black hair in a loose thick braid over one shoulder, minimal makeup with just a hint of peachy blush from cold air, petite fit figure, wearing a chunky cream knit sweater and high-waisted mom jeans, holding a hot taho cup with gulaman, taking a selfie at the Tagaytay ridge viewpoint, wide joyful smile, cozy highland escape vibe",
+          "environment": "Tagaytay ridge viewpoint, dramatic panoramic view of Taal Volcano island rising from Lake Taal below, misty morning fog rolling over the crater, lush green hills and pine trees, cool highland air visible in slight breath mist, souvenir vendors and other tourists in background, iconic Philippines highland scenery",
+          "lighting": "Cool overcast morning highland light, 6000K crisp and misty, soft diffused clouds creating even flattering light, Smart HDR preserving misty landscape and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens, Tagaytay ridge selfie with Taal Volcano backdrop, Portrait Mode for landscape bokeh, vertical 9:16",
+          "processing": "Apple ProRAW, cool highland grading, muted greens and blues with warm skin contrast",
+          "imperfections": "Slight breath mist in cold air, windblown stray hairs, authentic cool highland morning moment"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Tagaytay ridge viewpoint Taal Volcano selfie, young Filipina woman early 20s, warm brown skin cool highland freshness rosy cheeks cold air, dewy natural texture, dark loose thick braid one shoulder, minimal makeup peachy blush cold air, petite fit figure, chunky cream knit sweater high-waisted mom jeans, holding hot taho cup gulaman, phone selfie Tagaytay ridge viewpoint, wide joyful smile cozy highland escape, Tagaytay ridge panoramic view Taal Volcano island Lake Taal below, misty morning fog rolling crater, lush green hills pine trees, cool highland air breath mist, souvenir vendors tourists background, iconic Philippines highland scenery, cool overcast morning highland light 6000K crisp misty, soft diffused clouds even flattering light, Smart HDR misty landscape skin, Portrait Mode landscape bokeh, Apple ProRAW cool highland grading muted greens blues warm skin contrast, breath mist cold air windblown stray hairs, authentic Pinay Tagaytay highland aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz at Divisoria fabric market, touching colorful textiles, local fashion hunting, energetic market chaos",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin with busy indoor market light, natural skin texture candid and lively, dark brown-black hair in a practical high ponytail with wispy face-framing pieces, minimal makeup bare-faced with light sweat from market heat, petite fit figure, wearing a vintage-style printed blouse tucked into denim shorts, carrying large eco tote bag stuffed with fabric rolls, reaching up to touch a bolt of bright floral cloth at the market stall, laughing at the chaos, candid mid-action selfie energy",
+          "environment": "Divisoria fabric market Manila, densely packed market stalls overflowing with bolts of colorful fabric — floral prints, barong cloth, terno fabric, sequined material, narrow aisles packed with shoppers, vendors calling out deals, stacked merchandise reaching the ceiling, chaotic authentic local market atmosphere",
+          "lighting": "Mixed overhead fluorescent and open stall lighting, 5000K cool and busy, fabric colors casting colorful reflections, Smart HDR preserving fabric texture and skin in crowded conditions",
+          "camera_gear": "iPhone 16 Pro Max, main lens, Divisoria market candid selfie, wide angle for market chaos, vertical 9:16",
+          "processing": "Apple ProRAW, vivid market grading, saturated fabric colors with natural skin",
+          "imperfections": "Light sweat sheen from market heat, slightly disheveled from busy shopping, authentic Divisoria chaos energy"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Divisoria fabric market Manila candid selfie, young Filipina woman early 20s, warm brown skin busy indoor market light lively candid texture, dark high ponytail wispy face-framing pieces, minimal makeup bare-faced light sweat market heat, petite fit figure, vintage-style printed blouse tucked denim shorts, large eco tote bag fabric rolls, reaching up touch bolt bright floral cloth market stall, laughing chaos candid mid-action selfie, Divisoria fabric market Manila, densely packed stalls overflowing colorful fabric floral prints barong terno sequined material, narrow aisles packed shoppers, vendors calling deals, stacked merchandise ceiling, chaotic authentic local market, mixed overhead fluorescent open stall lighting 5000K cool busy, fabric colors colorful reflections, Smart HDR fabric texture skin crowded, wide angle market chaos, Apple ProRAW vivid market grading saturated fabric colors natural skin, sweat sheen disheveled shopping, authentic Pinay Divisoria market aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
+    },
+    {
+      "scene_idea": "Mira Cruz kayaking at Siargao lagoon, crystal clear still water, tropical island solitude, peaceful water adventure",
+      "status": "pending",
+      "createdAt": "2026-03-11T03:05:00.000Z",
+      "usedAt": null,
+      "prompt": {
+        "meta_data": {
+          "style": "iPhone Pro Max Photography",
+          "aspect_ratio": "9:16"
+        },
+        "prompt_components": {
+          "subject": "Young Filipina woman early 20s, warm medium brown skin deeply sun-kissed and glowing, natural skin texture with visible freckles from island sun, dark brown-black hair in two loose braids with small sea-flower tucked in, minimal makeup bare-faced and sun-flushed, petite fit athletic figure, wearing a sporty bikini top and athletic shorts, sitting in yellow kayak on perfectly still lagoon water, paddle resting across lap, one hand trailing in crystal clear water, peaceful serene smile, alone in quiet tropical paradise",
+          "environment": "Hidden lagoon near Siargao island, perfectly still emerald-green water reflecting surrounding mangroves and coconut trees, coral visible through clear water, no other people, untouched tropical lagoon, kingfisher bird on mangrove branch, pure island solitude atmosphere",
+          "lighting": "Soft afternoon tropical light filtered through mangrove canopy, 5000K dappled and serene, green water reflections casting emerald tones on skin, Smart HDR preserving lagoon depth and skin",
+          "camera_gear": "iPhone 16 Pro Max, main lens propped on kayak bow, Siargao lagoon kayak selfie, wide shot capturing water reflection, vertical 9:16",
+          "processing": "Apple ProRAW, lush tropical lagoon grading, deep emerald water and golden skin",
+          "imperfections": "Natural water splash on arms and shorts, sun freckles on nose and shoulders, authentic solo island adventure"
+        },
+        "full_prompt_string": "Shot on iPhone 16 Pro Max Siargao hidden lagoon kayak selfie, young Filipina woman early 20s, warm deeply sun-kissed brown skin glowing, natural texture visible freckles island sun, dark two loose braids sea-flower, minimal makeup bare-faced sun-flushed, petite fit athletic figure, sporty bikini top athletic shorts, sitting yellow kayak perfectly still lagoon water, paddle resting lap, hand trailing crystal clear water, peaceful serene smile alone quiet tropical paradise, hidden lagoon Siargao island, perfectly still emerald-green water reflecting mangroves coconut trees, coral visible clear water, no other people untouched tropical lagoon, kingfisher mangrove branch, pure island solitude, soft afternoon tropical light filtered mangrove canopy 5000K dappled serene, green water reflections emerald tones skin, Smart HDR lagoon depth skin, phone propped kayak bow wide water reflection, Apple ProRAW lush tropical lagoon grading deep emerald golden skin, water splash arms shorts sun freckles nose shoulders, authentic Pinay island solitude aesthetic, 9:16 vertical",
+        "negative_prompt": "professional DSLR, studio lighting, heavy retouching, airbrushed skin, heavy makeup, explicit, vintage filter, dramatic grade, CGI, illustration, perfect staging, stock photo, watermark, logo"
+      }
     }
   ]
 }
