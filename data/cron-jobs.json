@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-10T20:00:09.158Z",
-  "total": 51,
+  "updatedAt": "2026-03-11T20:00:15.254Z",
+  "total": 55,
   "jobs": [
     {
       "id": "843084fc-0751-4683-a640-0dc713d73acd",
@@ -9,8 +9,8 @@
       "scheduleExpr": "0 4 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "Run: cd /Users/traudl/.openclaw/workspace && node tools/sync-dashboard-vercel.mjs --push",
       "category": "other"
     },
@@ -21,8 +21,8 @@
       "scheduleExpr": "0 4 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "Run: cd /Users/traudl/.openclaw/workspace && node tools/sync-crons-to-vercel.mjs --push",
       "category": "other"
     },
@@ -70,7 +70,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "consecutiveErrors": 2,
       "description": "Run security review: node ~/.openclaw/workspace/scripts/security-review.mjs. Post the full report to",
       "category": "operations"
     },
@@ -81,8 +81,8 @@
       "scheduleExpr": "0 */6 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "You are Cosmo — Cost Analyst.\n\nYour task: Track API spend across all providers every 6 hours.\n\nTrack",
       "category": "operations"
     },
@@ -99,14 +99,26 @@
       "category": "operations"
     },
     {
+      "id": "57ced45e-9732-4adf-9abd-398386b6f311",
+      "name": "Morning Tweet Drafts",
+      "schedule": "0 7 * * *",
+      "scheduleExpr": "0 7 * * *",
+      "status": "active",
+      "model": "anthropic/claude-sonnet-4-6",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "Morning tweet drafting task:\n\n1. Write 3 tweets for @tobiasfendt_ (personal/vibe coding style)\n2. Wr",
+      "category": "content"
+    },
+    {
       "id": "8dac2e50-ffff-449f-a4b5-822f13b42163",
       "name": "glow-ofm 7AM itsmiracruz",
       "schedule": "0 7 * * *",
       "scheduleExpr": "0 7 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -129,8 +141,8 @@
       "scheduleExpr": "0 7 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "You are Vega — Browser Watchdog.\n\nYour task: Check browser CDP health once per day.\n\nVerify:\n- Brows",
       "category": "infrastructure"
     },
@@ -153,8 +165,8 @@
       "scheduleExpr": "20 7 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -165,9 +177,21 @@
       "scheduleExpr": "30 7 * * *",
       "status": "active",
       "model": "unknown",
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
+      "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
+      "category": "other"
+    },
+    {
+      "id": "10c14eb6-4b33-4139-9207-7e054c927330",
+      "name": "twitter-engage",
+      "schedule": "0 8,10,12,14,16,18,20,22 * * *",
+      "scheduleExpr": "0 8,10,12,14,16,18,20,22 * * *",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
-      "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
+      "description": "Run /twitter-engage with 5 posts",
       "category": "other"
     },
     {
@@ -177,8 +201,8 @@
       "scheduleExpr": "0 8 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "You are Echo — Git Sync Operator.\n\nYour task: Sync all workspace git repos.\n\nFor each repo (workspac",
       "category": "infrastructure"
     },
@@ -231,6 +255,18 @@
       "category": "growth"
     },
     {
+      "id": "13e48621-8a9c-4348-b7f5-bcc221f78d88",
+      "name": "Fanvue Daily Report",
+      "schedule": "0 9 * * *",
+      "scheduleExpr": "0 9 * * *",
+      "status": "active",
+      "model": "unknown",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "Generate and post the daily Fanvue report for Mira to #fanvue-chat-intel. Run: node ~/.openclaw/work",
+      "category": "other"
+    },
+    {
       "id": "18a77f25-006f-43f8-ac15-52478a670aef",
       "name": "📈 Phoenix — Growth Strategist",
       "schedule": "0 9 * * *",
@@ -249,8 +285,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run the daily Growth Hacking Pulse for Tobias. Check:\n1. Recent activity across all projects (thirst",
       "category": "growth"
     },
@@ -285,8 +321,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run the cost report script and post results to #cost-reports (channel 1474733269349040208).\n\nStep 1:",
       "category": "operations"
     },
@@ -303,26 +339,14 @@
       "category": "content"
     },
     {
-      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
-      "name": "Tweet Performance Review — 3-Day Learning Loop",
-      "schedule": "Every 4320 min",
-      "scheduleExpr": "every:259200000",
-      "status": "active",
-      "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
-      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
-      "category": "content"
-    },
-    {
       "id": "ceb48c65-5dde-4c61-8ecc-5e10c6434969",
       "name": "glow-ofm 11AM itsmiracruz",
       "schedule": "0 11 * * *",
       "scheduleExpr": "0 11 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -333,8 +357,8 @@
       "scheduleExpr": "10 11 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -357,8 +381,8 @@
       "scheduleExpr": "30 11 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -393,8 +417,8 @@
       "scheduleExpr": "0 18 * * *",
       "status": "active",
       "model": "unknown",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run this command and report result to #traudl: cd ~/.openclaw/workspace/skills/glow-ofm && node scri",
       "category": "other"
     },
@@ -465,8 +489,8 @@
       "scheduleExpr": "5 0 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "Post Mira's Fanvue daily earnings summary to #fanvue-earnings-daily. Use the fanvue-api.mjs script t",
       "category": "other"
     },
@@ -478,7 +502,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "consecutiveErrors": 3,
       "description": "You are Sage — Project Monitor.\n\nYour task: Nightly GitHub/CI/Vercel health scan.\n\nCheck:\n- GitHub: ",
       "category": "other"
     },
@@ -490,7 +514,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "consecutiveErrors": 3,
       "description": "Check prompt levels - Run: cd /Users/traudl/.openclaw/workspace && node tools/mira-auto-refill.mjs",
       "category": "other"
     },
@@ -553,6 +577,30 @@
       "consecutiveErrors": 0,
       "description": "Run the full nightly security review for OpenClaw gateway. Execute: openclaw security audit --deep a",
       "category": "infrastructure"
+    },
+    {
+      "id": "00114473-455e-4cdd-b933-eb3e3bce4488",
+      "name": "Tweet Analytics Review",
+      "schedule": "0 18 * * 5",
+      "scheduleExpr": "0 18 * * 5",
+      "status": "active",
+      "model": "anthropic/claude-sonnet-4-6",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "Tweet analytics review:\n\n1. Fetch Typefully analytics for tobiasfendt_ (285572) - see what tweets pe",
+      "category": "content"
+    },
+    {
+      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
+      "name": "Tweet Performance Review — 3-Day Learning Loop",
+      "schedule": "Every 4320 min",
+      "scheduleExpr": "every:259200000",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
+      "category": "content"
     },
     {
       "id": "796971f7-bd24-4911-82ef-d8a87c4d27e7",
