@@ -299,6 +299,106 @@
       "status": "pending",
       "createdAt": "2026-03-10T09:03:00+08:00",
       "full_tweet": "Building in public question for a Tuesday:\n\nWhat did you ship last week that you're NOT proud of?\n\nNot the wins. The mediocre stuff you pushed anyway.\n\nI shipped a feature that was 70% of what I wanted. It works. Users use it. I still cringe.\n\nShipping ugly > not shipping perfect."
+    },
+    {
+      "id": 4196861267,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-11T09:10:00+08:00",
+      "full_tweet": "Day 52. Wednesday vibes.\n\n- Shipped: search + pagination\n- AI: 1,400 lines generated\n- My input: 6 decisions that mattered, 1 edge case that would've broken everything\n- Session time: 2 hours 20 minutes\n- MRR: still compounding\n\n52 days of shipping. 52 days of proof that velocity beats perfection."
+    },
+    {
+      "id": 5207972378,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-11T09:10:00+08:00",
+      "full_tweet": "The vibe coding split you need to internalize:\n\nAI handles: boilerplate, CRUD, migrations, tests, refactoring\nYou handle: product decisions, security, ux, when to say \"no\"\n\nThe second list is 5% of the code but 95% of the value.\n\nTrain accordingly."
+    },
+    {
+      "id": 6319083489,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-11T09:10:00+08:00",
+      "full_tweet": "Stop building your \"AI stack.\"\n\nBuild your SHIPPING stack.\n\nCursor, Claude, GitHub, Vercel, Stripe.\nThat's it. That's the whole stack for 99% of indie hackers.\n\nEverything else is distraction. Ship the thing. Iterate in production."
+    },
+    {
+      "id": 7420194590,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-11T09:10:00+08:00",
+      "full_tweet": "The most expensive AI isn't the one with the highest subscription.\n\nIt's the one that breaks your flow.\n\nI tried a \"better\" model for a week. Switched back.\n\nWhy? My .cursorrules file was tuned for months. The new model didn't know my patterns.\n\nFlow state > raw power. Every time."
+    },
+    {
+      "id": 8531205601,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-11T09:10:00+08:00",
+      "full_tweet": "Wednesday Q: What's the oldest piece of code in your current project that you're still afraid to touch?\n\nMine: the auth flow from Day 3. It works. It scares me.\n\nThe answer tells you where your technical debt is hiding.\n\nDrop yours. Let's compare scars."
+    },
+    {
+      "id": 9642316789,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-12T09:09:00+08:00",
+      "full_tweet": "Day 53. Thursday. The streak continues.\n\n- Shipped: user profiles + activity feed\n- AI wrote: 1,950 lines\n- I fixed: 3 race conditions AI missed\n- Session: 2h 45m\n- Total MRR added: $12.4k\n\n53 days. The compound effect is real. Small daily reps beat occasional marathons."
+    },
+    {
+      "id": 1753427890,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-12T09:09:00+08:00",
+      "full_tweet": "Hot tip for vibe coding sessions:\n\nTell AI what NOT to do, not just what to do.\n\n\"Don't use Bootstrap\"\n\"Avoid global state\"\n\"No inline styles\"\n\nI learned this after AI refactored my clean code into something unrecognizable.\n\nNegative constraints = positive outcomes."
+    },
+    {
+      "id": 2864538901,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-12T09:09:00+08:00",
+      "full_tweet": "The real reason most developers struggle with AI coding:\n\nThey treat it like an intern that needs micromanaging.\n\nTreat it like a senior dev that needs context, not supervision.\n\nGive it the what. Let it figure out the how.\n\nYou'll ship faster. It'll surprise you."
+    },
+    {
+      "id": 3975649012,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-12T09:09:00+08:00",
+      "full_tweet": "I measure AI productivity differently now:\n\nNot lines of code.\nNot features shipped.\n\nHours of flow state preserved.\n\nBefore AI: 4 hours of context switching between coding and debugging.\nAfter: 45 min coding, 15 min review, done.\n\nThe time savings are real. The mental energy savings are the real win."
+    },
+    {
+      "id": 4086750123,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-12T09:09:00+08:00",
+      "full_tweet": "Thursday Q: What's one thing you wish AI could do in your workflow but it still sucks at?\n\nMine: reading my mind about what the user actually wants vs what they're asking for.\n\nStill have to do that part myself.\n\nDrop yours. Maybe someone solved it."
     }
   ]
 }

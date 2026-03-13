@@ -1,265 +1,49 @@
 {
   "kaivoss": [
     {
-      "id": 1073849265026,
+      "id": 1073849265036,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "revenue-update",
       "source": "zara-cron",
-      "createdAt": "2026-03-10T09:08:00+08:00",
-      "full_tweet": "Mira just crossed $1,000.\n\nDay 12 total: $1,064.50\n\nBreakdown:\n- Subs (recurring): $312.50\n- PPV content: $418\n- Upsells from DM flow: $334\n\nDay 1 we made $0.\nDay 12 we crossed four figures.\n\nNo face. No existing audience. No ad spend.\n\nJust the playbook, running every day."
+      "createdAt": "2026-03-12T09:18:00+08:00",
+      "full_tweet": "Week 2 complete: $1,287 → $2,847\n\n+121% week-over-week\n\nRenewals: $210 recurring\nNew subs: 47\nAvg spend: $56/sub\n\nThe compound is real. Week 1 we worked for every dollar. Week 2 the machine started working for us.\n\nMonth-end target: $5k. We're 57% there."
     },
     {
-      "id": 1073849265027,
+      "id": 1073849265037,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "ofm-tactics",
       "source": "zara-cron",
-      "createdAt": "2026-03-10T09:08:00+08:00",
-      "full_tweet": "PPV (pay-per-view) is where the real money is.\n\nOur Fanvue PPV setup:\n\n- $8 entry PPV → volume play, low friction\n- $22 mid-tier → exclusive scene or location unlock\n- $45 premium → bundled 10-post pack\n\nThis month's PPV split: 39% of total revenue\n\nSubs get you in the door. PPV scales you up.\n\nDon't sleep on the vault."
+      "createdAt": "2026-03-12T09:18:00+08:00",
+      "full_tweet": "Fanvue pricing that actually converts:\n\n• $9.99/mo base — too low, attracts tire-kickers\n• $14.99/mo — sweet spot for casual fans\n• $24.99/mo — our best performer (perceived value)\n• $49.99/mo VIP — 12% of subs, 34% of revenue\n\nWe A/B tested for 5 days. $24.99 won on both conversion AND revenue per view.\n\nPrice for value, not cheapest."
     },
     {
-      "id": 1073849265028,
+      "id": 1073849265038,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "ai-influencer",
       "source": "zara-cron",
-      "createdAt": "2026-03-10T09:08:00+08:00",
-      "full_tweet": "Mira's top 3 performing image styles this week:\n\n1. Golden hour outdoor (BGC rooftop) — 4.2x avg saves\n2. Cozy cafe interior — highest DM conversion (28%)\n3. Siargao beach casual — most shares, lowest DMs\n\nInsight: saves = aspirational. DMs = intimate.\n\nCafe content closes buyers. Beach content builds reach.\n\nUse both. Know which one you're optimizing for."
+      "createdAt": "2026-03-12T09:18:00+08:00",
+      "full_tweet": "Mira's prompt recipe (copy-paste ready):\n\n\"Ultra-detailed portrait of [NAME], [AGE], [ETHNICITY], [BODY TYPE], [SKIN TONE] with [DISTINCTIVE FEATURES]. [HAIR DETAILS]. [EXPRESSION]. Wearing [OUTFIT]. [SETTING]. Natural lighting, canon 85mm, sharp focus, cinematic color grade, photorealistic, 8k.\"\n\nVariables drive consistency. Output drives variety.\n\nTest 50 prompts. Keep the 5 that hit."
     },
     {
-      "id": 1073849265029,
+      "id": 1073849265039,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "automation-stack",
       "source": "zara-cron",
-      "createdAt": "2026-03-10T09:08:00+08:00",
-      "full_tweet": "How we track every dollar Mira makes in real time:\n\n- Fanvue webhook → n8n\n- n8n pushes to Convex DB (sale type, amount, tier)\n- Vercel dashboard updates live\n- Daily summary auto-posts to a private Discord channel at midnight\n\nWe always know: which content sold, which DM script closed, which tier converted.\n\nRevenue data > gut feel. Every time."
+      "createdAt": "2026-03-12T09:18:00+08:00",
+      "full_tweet": "The stack running Mira (March 2026):\n\n• Image Gen: ComfyUI + Flux (local GPU)\n• LoRA Training: Kohya GUI (RTX 4090, 8min/train)\n• Scheduling: n8n (12 automated posts/week)\n• DMs: Fanvue API + GPT-4o classifier\n• Analytics: Custom Notion dashboard\n\nTotal ops cost: $127/mo\nRevenue: $2,847/mo\n\nROI: 22x\n\nStart ugly. Automate fast. Iterate always."
     },
     {
-      "id": 1073849265030,
+      "id": 1073849265040,
       "account": "kaivoss",
       "handle": "@kaivoss",
       "type": "operator-mindset",
       "source": "zara-cron",
-      "createdAt": "2026-03-10T09:08:00+08:00",
-      "full_tweet": "The $1k milestone isn't the win.\n\nThe system is the win.\n\nMira runs on:\n- 20 min of human input/day\n- $0 in monthly overhead\n- A content pipeline that batches in 90 min/week\n- DM flows that close at 31%\n\nThe money scales when the system holds.\n\nBuild the machine first. The revenue follows.\n\nWeek 3 starts today."
-    },
-    {
-      "id": 1073849265021,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "revenue-update",
-      "source": "zara-cron",
-      "createdAt": "2026-03-09T09:13:00+08:00",
-      "full_tweet": "Mira Day 11 update:\n\nDay 11: $158\nRunning total: $906.50\n\n$1,000 this week. First time saying that out loud.\n\nWhat hit different today:\n- Pinned a \"fan favorites\" post → 41% of new subs bought the bundle\n- Reposted a 3-week-old image in a new caption → $34 from zero new content\n- First renewal came through: $24.99 recurring\n\nRecurring revenue is a different feeling.\n\nWeek 2 total: $540 and counting."
-    },
-    {
-      "id": 1073849265022,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-09T09:13:00+08:00",
-      "full_tweet": "Sub churn is the silent killer. Here's the retention flow that's working:\n\nDay 1: Welcome DM + \"What brought you here?\"\nDay 3: Exclusive post — \"just for this month's subs\"\nDay 7: Personal check-in DM (AI-written, feels human)\nDay 25: Renewal reminder + early bird offer ($3 off next month)\n\nRenewal rate: 61%\nAvg sub lifetime: 2.4 months (vs 1.1 before)\n\nAcquisition is hard. Retention is cheap. Focus there."
-    },
-    {
-      "id": 1073849265023,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-09T09:13:00+08:00",
-      "full_tweet": "We added short video to Mira's content mix. Here's the exact stack:\n\n- Generate 4 images (same scene, slightly varied pose)\n- String into video with Kling AI (3-5 sec loop)\n- Add ambient audio via ElevenLabs (typing sounds, cafe noise)\n- Export at 9:16, post as Reel\n\nVideo posts: 3.8x more profile visits than statics\nFirst reel: 4,200 views, 14 new subs\n\nStatic is fine. Video is a multiplier. Both."
-    },
-    {
-      "id": 1073849265024,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-09T09:13:00+08:00",
-      "full_tweet": "Caption system that takes 4 minutes/week:\n\n1. Dump 21 Mira images into a folder\n2. Feed to GPT-4o: \"Write 21 captions for this AI influencer. Voice: warm, playful, aspirational. Location context: [BGC/Siargao/market]. Max 2 lines.\"\n3. Review → light edits → paste into Buffer\n4. Schedule across 7 days, 3 posts/day\n\nTotal time: 4 min writing + 18 min scheduling\n\n21 captions. $0 extra. Just system."
-    },
-    {
-      "id": 1073849265025,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-09T09:13:00+08:00",
-      "full_tweet": "Week 2 recap. Here's what actually moved revenue:\n\n✅ Added video content (+38% profile reach)\n✅ Sub retention flow (61% renewal rate)\n✅ Weekend posting schedule (18% of weekly revenue hits Sat/Sun)\n✅ Pinned bundle offer (41% conversion on new subs)\n\n❌ Redesigning the profile (wasted 2 hours)\n❌ Testing a new image model (marginal gains, not worth it yet)\n❌ Comparing to accounts 10x our size\n\nDo more of what works. Stop the rest."
-    },
-    {
-      "id": 1073849265016,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "revenue-update",
-      "source": "zara-cron",
-      "createdAt": "2026-03-08T09:13:00+08:00",
-      "full_tweet": "Mira Day 10 update:\n\nTotal revenue: $748.50\nDay 10 alone: $142\n\nWe hit $700 on Day 9. Now pacing for $2,800 Month 1.\n\nWhat changed:\n- Added $49.99 tier (3 buyers = $150)\n- Weekend posting schedule (Sat/Sun = 18% of weekly revenue)\n- DM response time under 5 min (conversion up 27%)\n\nWeek 2 is outpacing Week 1 by 34%."
-    },
-    {
-      "id": 1073849265017,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-08T09:13:00+08:00",
-      "full_tweet": "The Fanvue pricing test that doubled our AOV:\n\nOriginal: $14.99 flat\nTest: $9.99 / $24.99 / $49.99 tiers\n\nResult:\n- 62% pick $9.99 (volume)\n- 31% pick $24.99 (sweet spot)\n- 7% pick $49.99 (whales)\n\nAverage order value: $18.40 → $26.80 (+45%)\n\nTiered pricing isn't optional. It's mandatory."
-    },
-    {
-      "id": 1073849265018,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-08T09:13:00+08:00",
-      "full_tweet": "AI influencer face consistency — the actual fix:\n\nWe were getting \"different Mira\" complaints until we locked:\n\n- Seed number: 847293 (same for every generation)\n- Face LoRA: trained on 50 base images\n- Negative prompt: \"asymmetric features, different eye color\"\n- Reference image: always include 1 locked Mira shot\n\nConsistency complaints: 12/week → 0/week\n\nLock the seed. Train the LoRA. Done."
-    },
-    {
-      "id": 1073849265019,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-08T09:13:00+08:00",
-      "full_tweet": "DM automation that closes while we sleep:\n\nn8n workflow:\n1. New Fanvue message → webhook trigger\n2. AI classifies intent (casual / warm / buyer)\n3. Casual → friendly response template\n4. Warm → engagement questions + soft pitch\n5. Buyer → custom offer + payment link\n\nClose rate: 31% (vs 12% manual)\nResponse time: 8 seconds avg\nRevenue while sleeping: $89 last night"
-    },
-    {
-      "id": 1073849265020,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-08T09:13:00+08:00",
-      "full_tweet": "10 days in. $748 made.\n\nHere's what I ignored:\n- Twitter threads about \"OFM is dead\"\n- Reddit posts saying AI models don't convert\n- DMs from people selling \"better\" courses\n- Comparison to accounts with 100k followers\n\nHere's what I tracked:\n- Daily revenue\n- Conversion rates\n- What content performed\n- What DM scripts closed\n\nNoise = expensive. Data = profitable.\n\nBuild your thing. Let them talk."
-    },
-    {
-      "id": 1073849265012,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-07T09:12:00+08:00",
-      "full_tweet": "The content schedule that's actually working on Fanvue:\n\n7AM — lifestyle post (morning routine, coffee, aesthetic)\n1PM — personality post (polls, \"this or that\", opinion)\n8PM — closer post (higher engagement, warmer audience)\n\nEvening posts convert 2.3x better than morning.\n\nTest your timing. Most operators guess. We track."
-    },
-    {
-      "id": 1073849265013,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-07T09:12:00+08:00",
-      "full_tweet": "How we batch Mira's content for an entire week in 90 minutes:\n\n1. Generate 21 base images (3/day) in one sitting\n2. Write captions with ChatGPT — give it 3 Mira examples first\n3. Schedule via buffer\n4. Prep 5 DM response templates for the week\n\nSunday batch → runs on autopilot Mon-Sat.\n\nTime invested: 90 min\nTime saved: 8 hours"
-    },
-    {
-      "id": 1073849265014,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-07T09:12:00+08:00",
-      "full_tweet": "We nearly paid $140/mo for tools we didn't need.\n\nActual stack that runs Mira for $0/mo:\n\n- Fanvue → free to start (takes %, no upfront)\n- Convex → free tier covers our DB load\n- Vercel → free tier, unlimited deploys\n- Buffer → free tier, 10 scheduled posts\n- n8n (self-hosted) → DM automation\n\nRevenue at $134/day. Overhead: $0.\n\nBootstrap before you subscribe."
-    },
-    {
-      "id": 1073849265015,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-07T09:12:00+08:00",
-      "full_tweet": "People keep asking: \"Is AI OFM saturated?\"\n\nMonth 1 of Mira: $600+ with zero audience, zero ads.\n\nHere's what's actually saturated: excuses about saturation.\n\nThe operators who launch, track, and iterate are making money.\nThe ones researching if it's \"still viable\" are still researching.\n\nData > vibes. Ship the thing."
-    },
-    {
-      "id": 9483726501,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "revenue-update",
-      "source": "zara-cron",
-      "createdAt": "2026-03-06T09:10:00+08:00",
-      "full_tweet": "Mira Day 7 revenue: $127\n\nWeek 1 total: $366.50\n\nBiggest driver: DM conversion flow. We're closing 23% of warm leads at $24.99 tier.\n\nThe math:\n- 100 profile visits → 12 DMs → 3 conversions = $75\n- Do that 5x/day = $375/day potential\n\nWe're at ~30% of ceiling. Room to scale."
-    },
-    {
-      "id": 9483726502,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-06T09:10:00+08:00",
-      "full_tweet": "Fanvue retention hack that added $200/mo:\n\nWelcome DM sequence (automated):\n1. \"Hey! Thanks for subbing 💕\" (immediate)\n2. \"What made you subscribe?\" (2h later)\n3. Custom content offer based on answer (24h)\n\nConversion on step 3: 34%\nAverage upsell: $18\n\nSet it once. Runs forever."
-    },
-    {
-      "id": 9483726503,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-06T09:10:00+08:00",
-      "full_tweet": "Prompt engineering for AI influencers — the actual formula:\n\nBase: \"Filipina woman, early 20s, medium brown skin, gold hoop earrings\"\n+ Location: \"BGC cafe, natural light, afternoon\"\n+ Pose: \"casual smile, phone in hand, looking at camera\"\n+ Style: \"candid iPhone photo, slight grain\"\n\nSave as preset. Swap location/pose. Character stays consistent."
-    },
-    {
-      "id": 9483726504,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-06T09:10:00+08:00",
-      "full_tweet": "Tool that saved us 3 hours/day:\n\nConvex + Vercel webhook pipeline.\n\nNew prompt added to JSON → Convex triggers → Vercel rebuilds → live site updates in 12 seconds.\n\nNo manual deploys. No waiting. No \"did it push?\" anxiety.\n\nCost: $0 (free tiers)\nSetup: 45 minutes\nTime saved: 15 hours/week"
-    },
-    {
-      "id": 9483726505,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-06T09:10:00+08:00",
-      "full_tweet": "Spent 2 weeks \"optimizing\" before launch.\n\nResult: $0, zero data, zero learnings.\n\nLaunched ugly Day 1:\n- Basic prompts\n- Simple landing page\n- Manual DMs\n\nMade $12.50.\n\nThen iterated daily. Now at $127/day.\n\nPerfection is expensive. Shipping is free.\n\nLaunch before you're ready."
-    },
-    {
-      "id": 8372615490,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "revenue-update",
-      "source": "zara-cron",
-      "createdAt": "2026-03-05T09:12:00+08:00",
-      "full_tweet": "Mira's first 6 days on Fanvue:\n\nDay 1: $0\nDay 2: $12.50\nDay 3: $27\nDay 4: $43.50\nDay 5: $67\nDay 6: $89.50\n\nTotal: $239.50\nProjected Month 1: $1,759\n\nNo existing audience. No face. Just consistent posting and retention flows.\n\nThe playbook works."
-    },
-    {
-      "id": 7261504389,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-05T09:12:00+08:00",
-      "full_tweet": "Fanvue pricing strategy that's actually working:\n\n$9.99 entry tier → gets them in the door\n$24.99 VIP tier → 40% of subs choose this\n$49.99 whale tier → 3% but 30% of revenue\n\nMost operators underprice. They're leaving money on the table.\n\nTest higher tiers. Watch conversion. Adjust."
-    },
-    {
-      "id": 6150393278,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-05T09:12:00+08:00",
-      "full_tweet": "AI character consistency isn't about perfect prompts.\n\nIt's about building a reference library:\n\n- 50+ base images locked in\n- Consistent lighting angles\n- Same locations repeated (BGC cafe, market, beach)\n- Signature accessories (gold hoops, specific jewelry)\n\nMira's recognition rate jumped 3x after we did this."
-    },
-    {
-      "id": 5039282167,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-05T09:12:00+08:00",
-      "full_tweet": "The automation stack running Mira:\n\n- Convex DB → prompt storage + tracking\n- Vercel → instant deploys on updates\n- IG auto-posting → 3x daily, scheduled\n- DM flows → AI first, human handoff at $20+ intent\n- Revenue tracker → real-time dashboard\n\nTotal setup time: 4 hours\nRunning time: 20 min/day"
-    },
-    {
-      "id": 4928171056,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-05T09:12:00+08:00",
-      "full_tweet": "Everyone asks about the \"best\" AI model for OFM.\n\nDoesn't matter.\n\nWhat matters:\n- Posting daily\n- Responding to DMs fast\n- Testing price points\n- Tracking what converts\n\nConsistency beats optimization every time.\n\nShip the thing. Fix it while it's making money."
+      "createdAt": "2026-03-12T09:18:00+08:00",
+      "full_tweet": "Day 14 vs Day 1:\n\nDay 1: 1 post, 3 likes, $0\nDay 14: 12 automated posts, 847 followers, $2,847\n\nSame Mira. Same strategy. Different execution.\n\nThe gap between failure and $2.8k wasn't talent. It was:\n- Posting when it felt like nothing was working\n- Tracking every number\n- Treating Day 1 like a test, not a verdict\n\n14 days in, I finally understand: consistency beats intensity.\n\nDay 15: let's go."
     }
   ]
 }
