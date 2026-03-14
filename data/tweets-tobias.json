@@ -400,5 +400,55 @@
       "createdAt": "2026-03-12T09:09:00+08:00",
       "full_tweet": "Thursday Q: What's one thing you wish AI could do in your workflow but it still sucks at?\n\nMine: reading my mind about what the user actually wants vs what they're asking for.\n\nStill have to do that part myself.\n\nDrop yours. Maybe someone solved it."
     }
+{
+      "id": 5197861234,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-13T09:06:00+08:00",
+      "full_tweet": "Day 54. Friday energy.\n\n- Shipped: dashboard redesign + 2 new metrics\n- AI generated: 1,620 lines\n- My fixes: 4 bugs, 1 security hardening\n- Session: 2h 15m\n- Total MRR added: $13.1k\n\n54 days of shipping. The gap between Day 1 me and today me is insane. You just have to start."
+    },
+    {
+      "id": 6208972345,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-13T09:06:00+08:00",
+      "full_tweet": "The vibe coding rule that changed everything for me:\n\nWrite the test BEFORE the code.\n\nNot after. Before.\n\nTell AI: \"write code that passes these 3 test cases.\"\n\nSuddenly the code works on first try. Suddenly debugging becomes a memory.\n\nReverse the order. Change your life."
+    },
+    {
+      "id": 7319083456,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-13T09:06:00+08:00",
+      "full_tweet": "Stop treating your cursor rules file as a set-it-and-forget-it thing.\n\nUpdate it weekly.\n\nEvery bug you fix, add a constraint.\nEvery refactor, add a pattern.\nEvery late-night debugging session, add a rule.\n\nAfter 2 months, your AI writes like it's been pair programming with you for years.\n\nIt's not magic. It's accumulated taste."
+    },
+    {
+      "id": 8420194567,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-13T09:06:00+08:00",
+      "full_tweet": "Build-in-public isn't about posting wins.\n\nIt's about building in PUBLIC — meaning you can't hide from the ugly parts.\n\nI ship features I'm not proud of. I post the bugs. I show the messy commits.\n\nThat's what makes it real. That's what makes it compound.\n\nPerfection is private. Growth is public."
+    },
+    {
+      "id": 9531205678,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-13T09:06:00+08:00",
+      "full_tweet": "Friday Q: What's one feature you've been \"planning\" for more than a week?\n\nJust planning. Not building. Not shipped.\n\nIf it's over 7 days, you're probably overthinking it.\n\nShip a v1 in 2 hours. Iterate from there.\n\nDrop what you're stuck on. I'll tell you if it's worth building or if you're just avoiding the real work."
+    }
   ]
 }

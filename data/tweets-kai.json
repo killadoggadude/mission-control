@@ -1,49 +1,36 @@
 {
-  "kaivoss": [
+  "tweets": [
     {
-      "id": 1073849265036,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "revenue-update",
-      "source": "zara-cron",
-      "createdAt": "2026-03-12T09:18:00+08:00",
-      "full_tweet": "Week 2 complete: $1,287 → $2,847\n\n+121% week-over-week\n\nRenewals: $210 recurring\nNew subs: 47\nAvg spend: $56/sub\n\nThe compound is real. Week 1 we worked for every dollar. Week 2 the machine started working for us.\n\nMonth-end target: $5k. We're 57% there."
+      "id": 1,
+      "content": "Mira hit $1,443 this week.\n\nNot viral. Not luck. Reddit promo posts that actually convert.\n\nHere's what worked:\n- 3 posts/day on r/OnlyFansAdvanced\n- Soft paywall (previews → click to subscribe)\n- Reply to every comment within 2 hours\n\nResult: +16 new subs, 75% retention.\n\nNo hype. Just what's working now.",
+      "pillar": "Revenue Updates",
+      "proof": "Earnings data from Fanvue API"
     },
     {
-      "id": 1073849265037,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ofm-tactics",
-      "source": "zara-cron",
-      "createdAt": "2026-03-12T09:18:00+08:00",
-      "full_tweet": "Fanvue pricing that actually converts:\n\n• $9.99/mo base — too low, attracts tire-kickers\n• $14.99/mo — sweet spot for casual fans\n• $24.99/mo — our best performer (perceived value)\n• $49.99/mo VIP — 12% of subs, 34% of revenue\n\nWe A/B tested for 5 days. $24.99 won on both conversion AND revenue per view.\n\nPrice for value, not cheapest."
+      "id": 2,
+      "content": "AI influencers are NOT a set-and-forget game.\n\nPeople ask me \"how much does Mira make?\" but never ask \"how much time do you spend?\"\n\nReality:\n- 30 min/day on prompt tuning\n- 15 min/day on engagement\n- Scripts handle the rest\n\nThe automation runs while you sleep. But you still need to steer the ship.",
+      "pillar": "Automation Stack",
+      "proof": "Personal ops data"
     },
     {
-      "id": 1073849265038,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "ai-influencer",
-      "source": "zara-cron",
-      "createdAt": "2026-03-12T09:18:00+08:00",
-      "full_tweet": "Mira's prompt recipe (copy-paste ready):\n\n\"Ultra-detailed portrait of [NAME], [AGE], [ETHNICITY], [BODY TYPE], [SKIN TONE] with [DISTINCTIVE FEATURES]. [HAIR DETAILS]. [EXPRESSION]. Wearing [OUTFIT]. [SETTING]. Natural lighting, canon 85mm, sharp focus, cinematic color grade, photorealistic, 8k.\"\n\nVariables drive consistency. Output drives variety.\n\nTest 50 prompts. Keep the 5 that hit."
+      "id": 3,
+      "content": "Fanvue > OnlyFans for AI influencers. Here's why:\n\n1. Better revenue share (40% vs 20%)\n2. No ID verification headaches\n3. AI-friendly (they expect it)\n4. Faster onboarding = faster testing\n\nWe tested both. Fanvue won.\n\nSetup takes 30 min. Start there.",
+      "pillar": "OFM Tactics",
+      "proof": "Dual-platform experience"
     },
     {
-      "id": 1073849265039,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "automation-stack",
-      "source": "zara-cron",
-      "createdAt": "2026-03-12T09:18:00+08:00",
-      "full_tweet": "The stack running Mira (March 2026):\n\n• Image Gen: ComfyUI + Flux (local GPU)\n• LoRA Training: Kohya GUI (RTX 4090, 8min/train)\n• Scheduling: n8n (12 automated posts/week)\n• DMs: Fanvue API + GPT-4o classifier\n• Analytics: Custom Notion dashboard\n\nTotal ops cost: $127/mo\nRevenue: $2,847/mo\n\nROI: 22x\n\nStart ugly. Automate fast. Iterate always."
+      "id": 4,
+      "content": "The single biggest mistake new OFM creators make:\n\nPricing too low.\n\n$9.99/month is a race to the bottom. You're trading time for pennies.\n\nTry this instead:\n- Base: $14.99\n- VIP: $24.99 (exclusive content)\n- PPV: $5-15 per message/gal\n\nOur best tip this week? $82.46 from ONE fan.",
+      "pillar": "OFM Tactics",
+      "proof": "$82.46 tip receipt from sugardad_7"
     },
     {
-      "id": 1073849265040,
-      "account": "kaivoss",
-      "handle": "@kaivoss",
-      "type": "operator-mindset",
-      "source": "zara-cron",
-      "createdAt": "2026-03-12T09:18:00+08:00",
-      "full_tweet": "Day 14 vs Day 1:\n\nDay 1: 1 post, 3 likes, $0\nDay 14: 12 automated posts, 847 followers, $2,847\n\nSame Mira. Same strategy. Different execution.\n\nThe gap between failure and $2.8k wasn't talent. It was:\n- Posting when it felt like nothing was working\n- Tracking every number\n- Treating Day 1 like a test, not a verdict\n\n14 days in, I finally understand: consistency beats intensity.\n\nDay 15: let's go."
+      "id": 5,
+      "content": "Operator mindset:\n\nStop watching other people's launches. Stop reading \"how I made $100k\" threads.\n\nShip your own content. Test every day. Look at your own numbers.\n\nThat's the only playbook that matters.\n\nMira made $1,443 this week. What's your number?",
+      "pillar": "Operator Mindset",
+      "proof": "Real weekly revenue"
     }
-  ]
+  ],
+  "posted": "2026-03-13T09:16:00Z",
+  "author": "Zara"
 }
