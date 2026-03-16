@@ -450,5 +450,106 @@
       "createdAt": "2026-03-13T09:06:00+08:00",
       "full_tweet": "Friday Q: What's one feature you've been \"planning\" for more than a week?\n\nJust planning. Not building. Not shipped.\n\nIf it's over 7 days, you're probably overthinking it.\n\nShip a v1 in 2 hours. Iterate from there.\n\nDrop what you're stuck on. I'll tell you if it's worth building or if you're just avoiding the real work."
     }
+,
+    {
+      "id": 1642316789,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-14T09:08:00+08:00",
+      "full_tweet": "Day 55. Saturday. Still shipping.\n\n- Shipped: dark mode + 2 user-requested fixes\n- AI wrote: 1,780 lines\n- My actual work: 2 decisions, 1 security patch\n- Session: 2h 30m\n- Total MRR added: $14.2k\n\n55 days of the streak. Consistency beats intensity. Every single time."
+    },
+    {
+      "id": 2753427890,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-14T09:08:00+08:00",
+      "full_tweet": "The vibe coding workflow that saved me this week:\n\n1. Describe the bug in ONE sentence\n2. Ask AI: \"what could cause this?\"\n3. Pick the most likely cause\n4. Ask AI to fix ONLY that\n\nBefore: 2 hours of vague debugging\nAfter: 20 minutes of surgical fixes\n\nPrecise prompts = precise fixes. Vague problems = vague solutions."
+    },
+    {
+      "id": 3864538901,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-14T09:08:00+08:00",
+      "full_tweet": "The indie hacker stack is getting too complicated.\n\nYou need:\n- Cursor (code)\n- Vercel (deploy)\n- Stripe (payments)\n- Convex (database)\n- Twitter (audience)\n\nThat's 5 tools. That's enough.\n\nEvery tool you add slows you down. Every integration is a liability.\n\nShip on 5. Scale to 10. Stop collecting tools."
+    },
+    {
+      "id": 4975649012,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-14T09:08:00+08:00",
+      "full_tweet": "I finally figured out when AI coding works vs when it doesn't:\n\nWORKS: CRUD, refactors, tests, boilerplate, migrations\nDOESN'T: domain logic, security decisions, UX nuance, ambiguous requirements\n\nThe pattern: AI is great at well-defined problems. Terrible at vague ones.\n\nYour job isn't to write code. It's to make problems unambiguous."
+    },
+    {
+      "id": 5086750123,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-14T09:08:00+08:00",
+      "full_tweet": "Saturday Q: What's one thing you built this week that you're actually excited about?\n\nNot \"satisfied with.\" Not \"got the job done.\"\n\nActually excited.\n\nI rebuilt my auth flow and I'm geeked about how clean it turned out.\n\nDrop yours. Let's celebrate the wins, no matter how small."
+    },
+    {
+      "id": 6197861345,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-15T09:05:00+08:00",
+      "full_tweet": "Day 56. Sunday. Still here.\n\n- Shipped: billing portal + webhook handling\n- AI wrote: 2,100 lines\n- My input: 3 product decisions, 1 edge case that would've cost a user real money\n- Session: 2h 10m\n- Running MRR: $15.1k added since Day 1\n\nWeekend energy hits different. No Slack, no distractions, just flow state and shipping."
+    },
+    {
+      "id": 7308972456,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-15T09:05:00+08:00",
+      "full_tweet": "The vibe coding session structure that actually works:\n\n08:00 — write down the ONE thing to ship today (not 5, one)\n08:10 — describe it to AI like you're onboarding a senior dev\n08:30 — review the scaffold, own the decisions\n10:00 — shipped\n\nMost people skip step 1. They wonder why they're still coding at midnight."
+    },
+    {
+      "id": 8419083567,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-15T09:05:00+08:00",
+      "full_tweet": "\"Build in public\" has become content theater.\n\nPeople post their wins. Screenshot their MRR at a conveniently round number. Curate a highlight reel.\n\nActual building in public:\n- Ship the half-baked feature\n- Post the bug you shipped to production\n- Share the revenue that went DOWN this month\n\nVulnerability builds audiences. Perfection builds nothing."
+    },
+    {
+      "id": 9520194678,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-15T09:05:00+08:00",
+      "full_tweet": "After 56 days of daily shipping, here's what I actually learned about AI coding:\n\nThe bottleneck was never the code.\n\nIt was:\n- Not knowing what to build next\n- Fear of shipping something broken\n- Perfectionism disguised as \"polish\"\n\nAI removed the coding friction. The real work is still the thinking.\n\nIt always was."
+    },
+    {
+      "id": 1631205789,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-15T09:05:00+08:00",
+      "full_tweet": "Sunday Q:\n\nIf you had to start your current project over from scratch using AI — what would you do differently?\n\nMine:\n- Write .cursorrules on Day 1\n- Define the data model before touching the UI\n- Commit every 30 minutes (AI diffs are gold for context later)\n\nWhat's yours? Especially curious from builders past Day 30."
+    }
   ]
 }

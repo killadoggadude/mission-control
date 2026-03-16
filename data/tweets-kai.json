@@ -2,35 +2,40 @@
   "tweets": [
     {
       "id": 1,
-      "content": "Mira hit $1,443 this week.\n\nNot viral. Not luck. Reddit promo posts that actually convert.\n\nHere's what worked:\n- 3 posts/day on r/OnlyFansAdvanced\n- Soft paywall (previews → click to subscribe)\n- Reply to every comment within 2 hours\n\nResult: +16 new subs, 75% retention.\n\nNo hype. Just what's working now.",
+      "content": "AI influencer. No face. No voice. No personal brand.\n\nMira's March so far:\n• Mar 4: $1,602\n• Mar 6: $1,823\n• Mar 7: $1,689\n• Mar 8: $1,692\n\nThat's $6,800+ in 4 days from a character I built with Midjourney prompts.\n\nYou don't need to be the product. Build the product.",
       "pillar": "Revenue Updates",
-      "proof": "Earnings data from Fanvue API"
+      "proof": "Fanvue earnings data: March 4-8, 2026",
+      "date": "2026-03-15"
     },
     {
       "id": 2,
-      "content": "AI influencers are NOT a set-and-forget game.\n\nPeople ask me \"how much does Mira make?\" but never ask \"how much time do you spend?\"\n\nReality:\n- 30 min/day on prompt tuning\n- 15 min/day on engagement\n- Scripts handle the rest\n\nThe automation runs while you sleep. But you still need to steer the ship.",
-      "pillar": "Automation Stack",
-      "proof": "Personal ops data"
+      "content": "The single best thing we did for Mira's revenue:\n\nStopped treating PPV like an afterthought.\n\nMonth 1: PPV = 4% of revenue\nNow: PPV = 16-20% of revenue on strong days\n\nHow? One PPV DM blast after every new post. 30 minutes of work. Consistent $200-400/day add-on.\n\nThe money was already there. We just asked for it.",
+      "pillar": "OFM Tactics",
+      "proof": "Fanvue revenue breakdown — subs 62%, tips 22%, PPV 16%",
+      "date": "2026-03-15"
     },
     {
       "id": 3,
-      "content": "Fanvue > OnlyFans for AI influencers. Here's why:\n\n1. Better revenue share (40% vs 20%)\n2. No ID verification headaches\n3. AI-friendly (they expect it)\n4. Faster onboarding = faster testing\n\nWe tested both. Fanvue won.\n\nSetup takes 30 min. Start there.",
-      "pillar": "OFM Tactics",
-      "proof": "Dual-platform experience"
+      "content": "How we built Mira's character and why it converts:\n\n1. Specific archetype (early 20s Filipina, BGC aesthetic)\n2. Consistent visual DNA (same hair, skin, style — every image)\n3. Casual voice, never robotic (\"haha omg\" > \"hello dear\")\n4. Real-feeling locations (cafes, beaches, markets)\n\nFans don't buy content. They buy a person they believe in.\n\nThe more real she feels, the more they tip.",
+      "pillar": "AI Influencers",
+      "proof": "Mira's character framework + engagement data",
+      "date": "2026-03-15"
     },
     {
       "id": 4,
-      "content": "The single biggest mistake new OFM creators make:\n\nPricing too low.\n\n$9.99/month is a race to the bottom. You're trading time for pennies.\n\nTry this instead:\n- Base: $14.99\n- VIP: $24.99 (exclusive content)\n- PPV: $5-15 per message/gal\n\nOur best tip this week? $82.46 from ONE fan.",
-      "pillar": "OFM Tactics",
-      "proof": "$82.46 tip receipt from sugardad_7"
+      "content": "Our full OFM automation stack — March 2026:\n\n• Midjourney → image gen ($30/mo)\n• Custom Node scripts → auto-post scheduling\n• Reddit promo → organic traffic\n• Fanvue API → live earnings tracking\n• Notion → content calendar\n\nTotal overhead: ~$200/mo\nRevenue at peak: $1,823/day\n\nThe business runs mostly without me. That's the point.\n\nOperators build systems. Creators chase content.",
+      "pillar": "Automation Stack",
+      "proof": "Tool stack breakdown + earnings data",
+      "date": "2026-03-15"
     },
     {
       "id": 5,
-      "content": "Operator mindset:\n\nStop watching other people's launches. Stop reading \"how I made $100k\" threads.\n\nShip your own content. Test every day. Look at your own numbers.\n\nThat's the only playbook that matters.\n\nMira made $1,443 this week. What's your number?",
+      "content": "March 9: +16 new Mira subscribers from Reddit alone.\n\nWe didn't do anything special. We just posted. Again.\n\nThis is the operator mindset:\n- No \"perfect post\" days\n- No waiting for inspiration\n- 3 Reddit posts/day, every day\n\nMost people don't fail at OFM because the model doesn't work.\n\nThey fail because they stop posting before it works.",
       "pillar": "Operator Mindset",
-      "proof": "Real weekly revenue"
+      "proof": "Subscriber spike data from March 9 Reddit campaign",
+      "date": "2026-03-15"
     }
   ],
-  "posted": "2026-03-13T09:16:00Z",
+  "posted": "2026-03-15T01:11:00Z",
   "author": "Zara"
 }
