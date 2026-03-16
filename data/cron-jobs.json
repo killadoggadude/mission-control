@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T20:00:13.409Z",
+  "updatedAt": "2026-03-16T20:00:38.104Z",
   "total": 44,
   "jobs": [
     {
@@ -27,18 +27,6 @@
       "category": "other"
     },
     {
-      "id": "8ec2f340-2672-46bd-9852-9794c7d42e7a",
-      "name": "🏥 Gateway Health Probe — MC Status",
-      "schedule": "Every 5 min",
-      "scheduleExpr": "every:300000",
-      "status": "active",
-      "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
-      "description": "Run: `curl -s -b /tmp/mc-cookies.txt -X POST http://localhost:3000/api/gateways/health 2>/dev/null |",
-      "category": "infrastructure"
-    },
-    {
       "id": "c4efc257-32b6-435e-a7b9-80b69dfda2d8",
       "name": "🔄 Agent Status Sync — Live MC Update",
       "schedule": "Every 5 min",
@@ -51,6 +39,18 @@
       "category": "other"
     },
     {
+      "id": "8ec2f340-2672-46bd-9852-9794c7d42e7a",
+      "name": "🏥 Gateway Health Probe — MC Status",
+      "schedule": "Every 5 min",
+      "scheduleExpr": "every:300000",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "Run: `curl -s -b /tmp/mc-cookies.txt -X POST http://localhost:3000/api/gateways/health 2>/dev/null |",
+      "category": "infrastructure"
+    },
+    {
       "id": "164f3b87-a96a-4018-be07-887546f0bbf6",
       "name": "agent-swarm-monitor",
       "schedule": "Every 30 min",
@@ -58,7 +58,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "consecutiveErrors": 21,
       "description": "Agent Swarm check. Run: `$HOME/.openclaw/workspace/agent-swarm/scripts/monitor-light.sh 2>&1`. If ou",
       "category": "other"
     },
@@ -70,7 +70,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 3,
+      "consecutiveErrors": 4,
       "description": "Run security review: node ~/.openclaw/workspace/scripts/security-review.mjs. Post the full report to",
       "category": "operations"
     },
@@ -81,8 +81,8 @@
       "scheduleExpr": "0 */6 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Cosmo — Cost Analyst.\n\nYour task: Track API spend across all providers every 6 hours.\n\nTrack",
       "category": "operations"
     },
@@ -129,8 +129,8 @@
       "scheduleExpr": "0 7 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 3,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Vega — Browser Watchdog.\n\nYour task: Check browser CDP health once per day.\n\nVerify:\n- Brows",
       "category": "infrastructure"
     },
@@ -153,8 +153,8 @@
       "scheduleExpr": "0 8 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Echo — Git Sync Operator.\n\nYour task: Sync all workspace git repos.\n\nFor each repo (workspac",
       "category": "infrastructure"
     },
@@ -165,8 +165,8 @@
       "scheduleExpr": "0 8 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Blaze — Backup Manager.\n\nYour task: Backup databases and critical files.\n\nBackup:\n- Convex D",
       "category": "infrastructure"
     },
@@ -213,8 +213,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "You are Cleo — Chat Intelligence for Mira (AI OFM).\n\nYour task: Analyze Fanvue chat patterns and sub",
       "category": "growth"
     },
@@ -249,8 +249,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run the daily Growth Hacking Pulse for Tobias. Check:\n1. Recent activity across all projects (thirst",
       "category": "growth"
     },
@@ -264,18 +264,6 @@
       "lastRunStatus": "ok",
       "consecutiveErrors": 0,
       "description": "You are Kai — TikTok Strategist.\n\nYour task: Daily TikTok algorithm and trend intel.\n\nTrack:\n- Algor",
-      "category": "other"
-    },
-    {
-      "id": "674a28ce-a711-472d-aaa8-a085275fb52b",
-      "name": "🔗 Ryder — Cross-Project Analyst",
-      "schedule": "0 9 * * 1",
-      "scheduleExpr": "0 9 * * 1",
-      "status": "active",
-      "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
-      "description": "You are Ryder — Cross-Project Analyst.\n\nYour task: Weekly cross-project pattern analysis (every Mond",
       "category": "other"
     },
     {
@@ -297,8 +285,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run the cost report script and post results to #cost-reports (channel 1474733269349040208).\n\nStep 1:",
       "category": "operations"
     },
@@ -315,14 +303,26 @@
       "category": "content"
     },
     {
+      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
+      "name": "Tweet Performance Review — 3-Day Learning Loop",
+      "schedule": "Every 4320 min",
+      "scheduleExpr": "every:259200000",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
+      "category": "content"
+    },
+    {
       "id": "4dccb8e9-80ca-4ea2-8e33-5cc9d632cae2",
       "name": "Daily SaaS Prototype Digest - Evening Report",
       "schedule": "0 18 * * *",
       "scheduleExpr": "0 18 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "You are the SaaS Prototype Hunter for Tobias. Run the daily Reddit/problem scan with Phase 3 intelli",
       "category": "growth"
     },
@@ -358,7 +358,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 4,
+      "consecutiveErrors": 5,
       "description": "You are Rex — Revenue Tracker for Mira (AI OFM).\n\nYour task: Post daily earnings report for Mira.\n\nT",
       "category": "other"
     },
@@ -369,8 +369,8 @@
       "scheduleExpr": "5 0 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Post Mira's Fanvue daily earnings summary to #fanvue-earnings-daily. Use the fanvue-api.mjs script t",
       "category": "other"
     },
@@ -394,7 +394,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 7,
+      "consecutiveErrors": 8,
       "description": "Check prompt levels - Run: cd /Users/traudl/.openclaw/workspace && node tools/mira-auto-refill.mjs",
       "category": "other"
     },
@@ -406,7 +406,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 3,
+      "consecutiveErrors": 4,
       "description": "You are Luna — Prompt Artist for Mira (AI OFM).\n\nYour task: Generate 5-10 new Higgsfield prompts for",
       "category": "content"
     },
@@ -430,7 +430,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "consecutiveErrors": 2,
       "description": "You are Nova — Lead Developer.\n\nYour task: Code review for thirst.so and bisaya-ai.\n\nReview for:\n- B",
       "category": "other"
     },
@@ -454,21 +454,9 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "consecutiveErrors": 3,
       "description": "Run the full nightly security review for OpenClaw gateway. Execute: openclaw security audit --deep a",
       "category": "infrastructure"
-    },
-    {
-      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
-      "name": "Tweet Performance Review — 3-Day Learning Loop",
-      "schedule": "Every 4320 min",
-      "scheduleExpr": "every:259200000",
-      "status": "active",
-      "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
-      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
-      "category": "content"
     },
     {
       "id": "00114473-455e-4cdd-b933-eb3e3bce4488",
@@ -517,6 +505,18 @@
       "consecutiveErrors": 0,
       "description": "You are Iris — Memory Keeper.\n\nYour task: Weekly memory synthesis (every Sunday at 3 AM).\n\nProcess:\n",
       "category": "operations"
+    },
+    {
+      "id": "674a28ce-a711-472d-aaa8-a085275fb52b",
+      "name": "🔗 Ryder — Cross-Project Analyst",
+      "schedule": "0 9 * * 1",
+      "scheduleExpr": "0 9 * * 1",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
+      "description": "You are Ryder — Cross-Project Analyst.\n\nYour task: Weekly cross-project pattern analysis (every Mond",
+      "category": "other"
     },
     {
       "id": "1c9b6b86-b5e6-4746-9660-81a66ee4d101",
