@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-16T20:00:38.104Z",
+  "updatedAt": "2026-03-17T20:00:34.147Z",
   "total": 44,
   "jobs": [
     {
@@ -58,7 +58,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 21,
+      "consecutiveErrors": 45,
       "description": "Agent Swarm check. Run: `$HOME/.openclaw/workspace/agent-swarm/scripts/monitor-light.sh 2>&1`. If ou",
       "category": "other"
     },
@@ -69,8 +69,8 @@
       "scheduleExpr": "0 5 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 4,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "Run security review: node ~/.openclaw/workspace/scripts/security-review.mjs. Post the full report to",
       "category": "operations"
     },
@@ -141,8 +141,8 @@
       "scheduleExpr": "0 8,10,12,14,16,18,20,22 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run /twitter-engage with 5 posts",
       "category": "other"
     },
@@ -177,8 +177,8 @@
       "scheduleExpr": "0 8,9,10,11,12,13,14,15,16,17,18,19,20,21 * * *",
       "status": "active",
       "model": "minimax/MiniMax-M2.5",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
+      "lastRunStatus": "error",
+      "consecutiveErrors": 1,
       "description": "Run /twitter-engage to perform 2-3 Twitter engagement comments (NOT 5). Use the browser to: 1) Navig",
       "category": "other"
     },
@@ -213,8 +213,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Cleo — Chat Intelligence for Mira (AI OFM).\n\nYour task: Analyze Fanvue chat patterns and sub",
       "category": "growth"
     },
@@ -249,8 +249,8 @@
       "scheduleExpr": "0 9 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "Run the daily Growth Hacking Pulse for Tobias. Check:\n1. Recent activity across all projects (thirst",
       "category": "growth"
     },
@@ -286,7 +286,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "consecutiveErrors": 2,
       "description": "Run the cost report script and post results to #cost-reports (channel 1474733269349040208).\n\nStep 1:",
       "category": "operations"
     },
@@ -303,26 +303,14 @@
       "category": "content"
     },
     {
-      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
-      "name": "Tweet Performance Review — 3-Day Learning Loop",
-      "schedule": "Every 4320 min",
-      "scheduleExpr": "every:259200000",
-      "status": "active",
-      "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "ok",
-      "consecutiveErrors": 0,
-      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
-      "category": "content"
-    },
-    {
       "id": "4dccb8e9-80ca-4ea2-8e33-5cc9d632cae2",
       "name": "Daily SaaS Prototype Digest - Evening Report",
       "schedule": "0 18 * * *",
       "scheduleExpr": "0 18 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are the SaaS Prototype Hunter for Tobias. Run the daily Reddit/problem scan with Phase 3 intelli",
       "category": "growth"
     },
@@ -358,7 +346,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 5,
+      "consecutiveErrors": 6,
       "description": "You are Rex — Revenue Tracker for Mira (AI OFM).\n\nYour task: Post daily earnings report for Mira.\n\nT",
       "category": "other"
     },
@@ -370,7 +358,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 1,
+      "consecutiveErrors": 2,
       "description": "Post Mira's Fanvue daily earnings summary to #fanvue-earnings-daily. Use the fanvue-api.mjs script t",
       "category": "other"
     },
@@ -394,7 +382,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 8,
+      "consecutiveErrors": 9,
       "description": "Check prompt levels - Run: cd /Users/traudl/.openclaw/workspace && node tools/mira-auto-refill.mjs",
       "category": "other"
     },
@@ -406,7 +394,7 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 4,
+      "consecutiveErrors": 5,
       "description": "You are Luna — Prompt Artist for Mira (AI OFM).\n\nYour task: Generate 5-10 new Higgsfield prompts for",
       "category": "content"
     },
@@ -429,8 +417,8 @@
       "scheduleExpr": "0 3 * * *",
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
-      "lastRunStatus": "error",
-      "consecutiveErrors": 2,
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
       "description": "You are Nova — Lead Developer.\n\nYour task: Code review for thirst.so and bisaya-ai.\n\nReview for:\n- B",
       "category": "other"
     },
@@ -454,9 +442,21 @@
       "status": "active",
       "model": "lmstudio/qwen3.5-9b",
       "lastRunStatus": "error",
-      "consecutiveErrors": 3,
+      "consecutiveErrors": 4,
       "description": "Run the full nightly security review for OpenClaw gateway. Execute: openclaw security audit --deep a",
       "category": "infrastructure"
+    },
+    {
+      "id": "cec9b501-26f4-449c-b8ad-92543fa90f10",
+      "name": "Tweet Performance Review — 3-Day Learning Loop",
+      "schedule": "Every 4320 min",
+      "scheduleExpr": "every:259200000",
+      "status": "active",
+      "model": "lmstudio/qwen3.5-9b",
+      "lastRunStatus": "ok",
+      "consecutiveErrors": 0,
+      "description": "3-day tweet performance review. Analyze what worked, update the playbook.\n\nSTEP 1: Fetch tweet-learn",
+      "category": "content"
     },
     {
       "id": "00114473-455e-4cdd-b933-eb3e3bce4488",
