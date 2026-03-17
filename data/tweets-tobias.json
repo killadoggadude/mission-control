@@ -550,6 +550,56 @@
       "status": "pending",
       "createdAt": "2026-03-15T09:05:00+08:00",
       "full_tweet": "Sunday Q:\n\nIf you had to start your current project over from scratch using AI — what would you do differently?\n\nMine:\n- Write .cursorrules on Day 1\n- Define the data model before touching the UI\n- Commit every 30 minutes (AI diffs are gold for context later)\n\nWhat's yours? Especially curious from builders past Day 30."
+    },
+    {
+      "id": 2742316890,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "progress-update",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-16T09:07:00+08:00",
+      "full_tweet": "Day 57. Monday. The streak lives.\n\n- Shipped: API rate limiting + usage dashboard\n- AI generated: 1,890 lines\n- My input: 2 edge cases that would've taken down production\n- Session: 2h 40m\n- Running MRR: $16.3k added since Day 1\n\n57 days. That's 2 months of daily shipping. The compound is real."
+    },
+    {
+      "id": 3853427901,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "vibe-coding",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-16T09:07:00+08:00",
+      "full_tweet": "The vibe coding anti-pattern nobody warns you about:\n\nAsking AI to \"improve\" code without a specific goal.\n\nIt will refactor. It will change things that didn't need changing. It will introduce bugs you didn't have.\n\nBetter: \"Refactor this to reduce lines by 30% OR make it easier to add new endpoints.\"\n\nAlways define the win condition. Always."
+    },
+    {
+      "id": 4964538012,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "hot-take",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-16T09:07:00+08:00",
+      "full_tweet": "The biggest lie in AI coding advice:\n\n\"Just learn to prompt better.\"\n\nNo.\n\nLearn to:\n- Define problems precisely\n- Validate outputs rigorously\n- Know what to keep vs what to discard\n\nPrompting is 10% of it. The other 90% is clear thinking + domain expertise + taste.\n\nAI amplifies what you already know. It doesn't fill gaps you won't acknowledge."
+    },
+    {
+      "id": 5075649123,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "insight",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-16T09:07:00+08:00",
+      "full_tweet": "My AI now writes 95% of my tests. I still catch bugs every week.\n\nNot because AI is bad at testing. Because I was bad at defining test cases.\n\nThe fix: Every bug that ships → write a test for it → add it to the rules file.\n\nAfter 57 days, my test coverage went from 12% to 78%. The rules file is now 200+ lines of \"here's what we learned the hard way.\""
+    },
+    {
+      "id": 6186750234,
+      "account": "tobiasfendt",
+      "handle": "@tobiasfendt_",
+      "type": "question",
+      "source": "daily-cron-jaxon",
+      "status": "pending",
+      "createdAt": "2026-03-16T09:07:00+08:00",
+      "full_tweet": "Monday Q: What's one tool or workflow you genuinely can't vibe code without?\n\nNot the trendy one. The one that if it disappeared tomorrow, you'd actually be slowed down.\n\nMine: Cursor's terminal integration. I live in the command line. AI that reads my shell history is cheat code.\n\nDrop yours. Let's compare tool stacks."
     }
   ]
 }
