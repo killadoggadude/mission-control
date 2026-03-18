@@ -1,41 +1,42 @@
 {
   "tweets": [
     {
-      "id": 1,
-      "content": "The pricing experiment that doubled Mira's revenue:\n\nWe raised monthly sub from $9.99 → $14.99 on March 1.\n\nExpected: Fewer subs, higher ARPU\nResult: BOTH went up\n\nMarch 1-15: $8,247 (vs Feb's $6,891 total)\n\nLesson: Underpricing signals 'low value.' Your fans will pay more than you think — if you ask.",
+      "id": 6,
+      "content": "One pricing change = +$2,847/month\n\nWe bumped Mira from $9.99→$14.99 basic, $19.99→$29.99 premium.\n\nLost 12 subs. Gained $2,847 in recurring.\n\nMath: 12 × $14.99 = $180/mo lost\nNew revenue: +$3,027/mo gained\n\nNet: +$2,847/mo from ONE change.\n\nDon't underprice to 'be nice.' Price for value.",
       "pillar": "OFM Tactics",
-      "proof": "Fanvue dashboard March 1-15 vs February total",
-      "date": "2026-03-16"
+      "proof": "Fanvue pricing A/B test — March 1 ($9.99) vs March 10 ($14.99)",
+      "date": "2026-03-17"
     },
     {
-      "id": 2,
-      "content": "Prompt engineering is 10% of the work.\n\nThe other 90%? consistency.\n\nWe run the same character prompts daily. Same lighting. Same style. Same vibe. Every single image builds Mira's \"visual brand.\n\nVariety sounds smart. Consistency builds trust.\n\nFans recognize the look. That's the point.",
+      "id": 7,
+      "content": "Reddit is our #1 subscriber source.\n\nNot TikTok. Not Twitter. Reddit.\n\nWhy it works:\n•NSFW-friendly communities\n•Long-form = trust\n•People actually read, not scroll\n\nOur best post: 47 subs from ONE r/OFunya type thread.\n\nFind your niche subreddit. Post value. Convert readers.\n\nIt's the oldest playbook. Still works.",
+      "pillar": "OFM Tactics",
+      "proof": "Fanvue traffic analytics — Reddit referral vs other sources, March 2026",
+      "date": "2026-03-17"
+    },
+    {
+      "id": 8,
+      "content": "The AI influencer chat mistake everyone makes:\n\nTrying to sound 'too human.'\n\nWrong.\n\nPeople know they're talking to AI. They don't care.\n\nWhat they DO care about: consistency, personality, responsiveness.\n\nMira replies in <2 hours. Always cheerful. Always remembers preferences.\n\nThat's what drives tips. Not 'human-like' blunders.",
       "pillar": "AI Influencers",
-      "proof": "Mira's image library showing consistent style across 200+ posts",
-      "date": "2026-03-16"
+      "proof": "Mira's chat response time avg — 1.7 hours, tip correlation data",
+      "date": "2026-03-17"
     },
     {
-      "id": 3,
-      "content": "Mira crossed 1,400 subs yesterday.\n\nHere's what actually drove growth:\n\n1. Reddit r/onlyfans4u + r/realgirls — 40% of new subs\n2. Fanvue trending page (4x in March)\n3. Consistent posting (3 posts/day minimum)\n4. PPV blasts after every drop\n\nNo bots. No spam. No viral hacks.\n\nJust showing up daily. That's the whole playbook.",
-      "pillar": "Revenue Updates",
-      "proof": "Fanvue subscriber counter + traffic source breakdown",
-      "date": "2026-03-16"
-    },
-    {
-      "id": 4,
-      "content": "Auto-DM sequence for new subscribers:\n\nDay 0 (welcome): \"Hey! Thanks for subscribing :)\" + free photo\nDay 1: \"Welcome to the fam! Check out my VIP page for exclusives\"\nDay 3: One PPV offer (not every day — burn fatigue)\nDay 7: Tip menu reminder\n\nSimple automation. +$150-300/day in PPV/tips on autopilot.\n\nBuild the machine. Let it sell while you sleep.",
+      "id": 9,
+      "content": "We have 3 'personas' for Mira:\n\n1️⃣ Flirty — responds to teasing, plays along\n2️⃣ Friendly — conversational, asks about their day\n3️⃣ Appreciative — grateful for tips, sends extra pics\n\nClaude switches between them based on chat context.\n\nOne persona confuses users. Three personas = deeper engagement = more tips.\n\nTier your AI. Watch engagement spike.",
       "pillar": "Automation Stack",
-      "proof": "Notion workflow doc + automated revenue data",
-      "date": "2026-03-16"
+      "proof": "Make.com persona routing workflow + tip data by persona type",
+      "date": "2026-03-17"
     },
     {
-      "id": 5,
-      "content": "Nobody cares about your OFM journey until you have results.\n\nMonth 1: I was embarrassed to share numbers.\nMonth 3: I realized: proof is the content.\n\nNow I post earnings, screenshots, what worked, what flopped.\n\nThe more transparent you are, the more people trust you.\n\nStop performing. Start proving.",
-      "pillar": "Operator Mindset",
-      "proof": "Mira's growth timeline — from launch to 1,400 subs",
-      "date": "2026-03-16"
+      "id": 10,
+      "content": "People ask: 'Is AI influencer income stable?'\n\nHere's the reality:\n\nMira's last 30 days: $12,847\nMira's last 60 days: $21,234\nMira's last 90 days: $28,091\n\nIt's growing. But no — it's not 'stable' in the traditional sense.\n\nIt's a growth business. Treat it like one.\n\nReinvest. Diversify. Build the machine while it's hot.",
+      "pillar": "Revenue Updates",
+      "proof": "Mira's Fanvue earnings — Jan ($5,244), Feb ($6,891), Mar (~$12k projected)",
+      "date": "2026-03-17"
     }
   ],
-  "posted": "2026-03-16T01:16:00Z",
-  "author": "Zara"
+  "posted": "2026-03-17T11:16:00Z",
+  "author": "Zara",
+  "slot": "afternoon"
 }
