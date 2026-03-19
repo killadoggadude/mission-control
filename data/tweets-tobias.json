@@ -1,31 +1,31 @@
 [
   {
     "id": "tweet-1",
-    "content": "i built a working MVP in 3 hours yesterday. zero lines of code written by hand. cursor did 95% of the work, i just directed traffic. this is the future — either you're prompt-engineering your way to products or you're manually typing syntax like it's 2015.",
+    "content": "hot take: vibe coding won't replace developers — it replaces the ones who ONLY know how to code. if your value is just syntax, you're dead. the new moat is product sense + knowing what to build. ai handles the implementation. you handle the vision.",
     "type": "hot-take",
     "theme": "vibe-coding"
   },
   {
     "id": "tweet-2",
-    "content": "the vibe coding workflow that actually works:\n\n1. describe the app in 3 sentences\n2. let AI scaffold everything\n3. fix the 10% that breaks\n4. ship\n\nmost people get stuck on step 1. they overthink. just describe what you want. the AI will figure out the rest.",
+    "content": "real talk on AI tools:\n\nused claude for 2 hours yesterday -> wrote 0 code, architected a whole automation pipeline in the conversations\nused cursor for 1 hour -> built the actual working prototype\n\ndifferent tools for different phases. don't force one tool to do everything. that's like using a screwdriver as a hammer.",
     "type": "insights",
-    "theme": "vibe-coding"
+    "theme": "ai-tools"
   },
   {
     "id": "tweet-3",
-    "content": "build in public isn't about posting every win. it's about being honest about the struggle. last week i spent 6 hours on a bug that turned out to be a missing comma. posted it. 47 people replied with similar stories. that's the value. connection through honesty.",
-    "type": "insights",
+    "content": "progress update: shipped my first paid product in 4 days. $0 revenue so far lol. but here's what mattered: i got real user feedback within 24 hours of launching. that's the build-in-public advantage. announce it, get feedback, iterate. perfect product before launching = perfect failure.",
+    "type": "progress-update",
     "theme": "build-in-public"
   },
   {
     "id": "tweet-4",
-    "content": "unpopular opinion: the best AI tool isn't cursor. it isn't claude. it's the one you actually USE consistently. i know people paying for every premium AI app and still shipping nothing. usage > tool collection. pick one, master it, start shipping.",
+    "content": "the problem with most 'vibe coders': they build cool demos, zero products. there's a difference between 'look what ai made me' and 'look what i shipped that people pay for'. one gets likes. one gets income. pick your metric.",
     "type": "hot-take",
-    "theme": "ai-tools"
+    "theme": "vibe-coding"
   },
   {
     "id": "tweet-5",
-    "content": "question: what's your current project and what's ONE thing holding you back?\n\ni'll go first: working on a content automation tool, stuck on figuring out the pricing page. classic analysis paralysis.\n\ndrop yours. let's problem-solve together.",
+    "content": "question for the builders: what's ONE tool or workflow you discovered in the last 30 days that's actually moved the needle for you?\n\nasking because i feel like everyone's talking about the same 3 tools. there's gotta be some under-the-radar stuff worth trying. share and let's trade notes.",
     "type": "question",
     "theme": "engagement"
   }
